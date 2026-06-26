@@ -2585,11 +2585,6 @@
 
 <!-- ============= HERO ============= -->
 <section class="hero" id="top">
-  <video class="hero-video" autoplay muted loop playsinline preload="auto" poster="assets/og-banner.jpg" aria-hidden="true">
-    <source src="assets/hero-bg.mp4" type="video/mp4" />
-  </video>
-  <div class="hero-overlay"></div>
-  <div class="hero-overlay-2"></div>
   <div class="hero-stars"></div>
   <div class="hero-frame"></div>
   <div class="hero-corner tl"><svg viewBox="0 0 80 80"><path d="M2 32 L2 2 L32 2"/><path d="M2 14 L14 2"/><circle cx="2" cy="2" r="3" class="corner-star" fill="currentColor" stroke="none"/></svg></div>
@@ -2597,7 +2592,6 @@
   <div class="hero-corner bl"><svg viewBox="0 0 80 80"><path d="M2 32 L2 2 L32 2"/><path d="M2 14 L14 2"/><circle cx="2" cy="2" r="3" class="corner-star" fill="currentColor" stroke="none"/></svg></div>
   <div class="hero-corner br"><svg viewBox="0 0 80 80"><path d="M2 32 L2 2 L32 2"/><path d="M2 14 L14 2"/><circle cx="2" cy="2" r="3" class="corner-star" fill="currentColor" stroke="none"/></svg></div>
 
-  <div class="hero-kicker">Direito Imobiliário &middot; Família e Sucessões &middot; Manhuaçu/MG</div>
   <div class="hero-logo">
     <img class="hero-logo-img" src="assets/logo-gd.png?v=6" alt="Gomes & Dutra Advocacia" width="1052" height="256" fetchpriority="high" />
     <h1 class="visually-hidden">Gomes & Dutra Advocacia</h1>
@@ -2613,8 +2607,6 @@
       Agende sua Consulta
     </a>
     </div>
-
-  <div class="hero-proof">Regularização de imóveis &middot; Família e Sucessões &middot; <strong>atendimento presencial e online</strong></div>
 
   <a href="#escritorio" class="hero-scroll" aria-label="Rolar para conteúdo">
     <span class="hero-scroll-text">Conheça</span>
@@ -3467,18 +3459,28 @@
   /* reveal de scroll mais orgânico (desacelera suave no fim) */
   [data-reveal]{transition-timing-function:cubic-bezier(.16,1,.3,1)!important;transition-duration:1s!important}
 
-  /* ═══ GD: tema ESCURO consistente — sobrepõe o "tema misto" claro e remove as transições navy→creme ═══ */
-  .office{background:#0b1322!important;color:#cdd6e4!important}
+  /* ═══ GD: HERO escuro elegante (sem vídeo/imagem) ═══ */
+  .hero-video,.hero-overlay,.hero-overlay-2{display:none!important}
+  .hero{background:radial-gradient(135% 105% at 50% 24%, #1a2c49 0%, #0d1626 44%, #070c16 100%)!important}
+
+  /* ═══ GD: SOBRE O ESCRITÓRIO em paper amarelado (limpo, sem degradê) ═══ */
+  .office{background:#f4ead2!important;color:#2c2a24!important}
   .office::before{display:none!important}
-  .office .shead-eye{color:#d4af37!important}
-  .office-text h2{color:#f4ead0!important}
-  .office-text h2 em{color:#e6c869!important}
-  .office-text p{color:#aeb7c6!important}
-  .office-text p strong{color:#f1ead7!important}
-  .pillar{border-top-color:rgba(212,175,55,.20)!important}
-  .pillar-title{color:#e6c869!important}
-  .pillar-text{color:#aeb7c6!important}
-  .office-loc-addr,.office-loc-addr strong,.loc-cap-text{color:#cdd6e4!important}
+  .office .shead-eye{color:#9a7426!important}
+  .office .shead-eye::before,.office .shead-eye::after{background:#caa64e!important}
+  .office-text h2{color:#23262e!important}
+  .office-text h2 em{color:#a87f2b!important}
+  .office-text p{color:#5a554a!important}
+  .office-text p strong{color:#23262e!important}
+  .pillar{border-top-color:rgba(0,0,0,.14)!important}
+  .pillar-ico{color:#a87f2b!important}
+  .pillar-ico svg{stroke:#a87f2b!important}
+  .pillar-title{color:#a87f2b!important}
+  .pillar-text{color:#5a554a!important}
+  .office-loc-addr{color:#4a4639!important}
+  .office-loc-addr strong{color:#23262e!important}
+  .office-loc-addr .loc-pin{stroke:#a87f2b!important}
+  .loc-cap-text{color:#4a4639!important}
   .faq-section{background:#0a1019!important;color:#cdd6e4!important}
   .faq-section .shead h2{color:#f4ead0!important}
   .faq-section .shead h2 em,.faq-section .shead-eye{color:#e6c869!important}
