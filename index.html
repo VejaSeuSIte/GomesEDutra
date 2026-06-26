@@ -3466,6 +3466,34 @@
   .faq-section{background:linear-gradient(to bottom,#0a1424 0%,var(--paper-2) 110px,var(--paper-2) calc(100% - 110px),#070f1d 100%)!important}
   /* reveal de scroll mais orgânico (desacelera suave no fim) */
   [data-reveal]{transition-timing-function:cubic-bezier(.16,1,.3,1)!important;transition-duration:1s!important}
+
+  /* ═══ GD: tema ESCURO consistente — sobrepõe o "tema misto" claro e remove as transições navy→creme ═══ */
+  .office{background:#0b1322!important;color:#cdd6e4!important}
+  .office::before{display:none!important}
+  .office .shead-eye{color:#d4af37!important}
+  .office-text h2{color:#f4ead0!important}
+  .office-text h2 em{color:#e6c869!important}
+  .office-text p{color:#aeb7c6!important}
+  .office-text p strong{color:#f1ead7!important}
+  .pillar{border-top-color:rgba(212,175,55,.20)!important}
+  .pillar-title{color:#e6c869!important}
+  .pillar-text{color:#aeb7c6!important}
+  .office-loc-addr,.office-loc-addr strong,.loc-cap-text{color:#cdd6e4!important}
+  .faq-section{background:#0a1019!important;color:#cdd6e4!important}
+  .faq-section .shead h2{color:#f4ead0!important}
+  .faq-section .shead h2 em,.faq-section .shead-eye{color:#e6c869!important}
+  .faq-section .shead-sub{color:#aeb7c6!important}
+  .faq-search input{background:rgba(255,255,255,.04)!important;border-color:rgba(212,175,55,.25)!important;color:#f5f5f5!important}
+  .faq-search input::placeholder{color:#8b93a3!important}
+  .faq-search svg{stroke:#d4af37!important}
+  .q{background:rgba(255,255,255,.03)!important;border-color:rgba(212,175,55,.18)!important}
+  .q[open]{background:rgba(255,255,255,.05)!important;border-color:rgba(212,175,55,.5)!important;box-shadow:none!important}
+  .q summary{color:#ece6d6!important}
+  .q[open] summary{color:#e6c869!important}
+  .q summary::before,.q summary::after{background:#d4af37!important}
+  .q-body{color:#aeb7c6!important}
+  .q-body strong{color:#f1ead7!important}
+  .faq-cta-text{color:#cdd6e4!important}
 </style>
 <script>
   (function(){
