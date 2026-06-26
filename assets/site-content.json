@@ -1,0 +1,207 @@
+{
+  "nav": {
+    "brand_text": "Gomes & Dutra Advocacia",
+    "links": [
+      { "label": "O Escritório", "href": "#escritorio" },
+      { "label": "Áreas", "href": "#areas" },
+      { "label": "Quem Somos", "href": "#sobre" },
+      { "label": "Dúvidas", "href": "#faq" },
+      { "label": "Contato", "href": "#contato" }
+    ],
+    "cta_label": "WhatsApp"
+  },
+  "hero": {
+    "tagline_quote": "Regularização de imóveis rurais e urbanos, inventário, divórcio e usucapião — <br/>com a segurança de quem atua na esfera judicial e extrajudicial.",
+    "cta_primary_label": "Agende sua Consulta",
+    "cta_secondary_label": "",
+    "video_src": "",
+    "poster_src": "assets/og-banner.jpg",
+    "seal_src": "assets/seal-gd.png?v=1"
+  },
+  "office": {
+    "eyebrow": "Sobre o escritório",
+    "h2": "Direito <em>imobiliário</em>, de família e sucessões.",
+    "paragraphs": [
+      "O <strong>Gomes & Dutra Advocacia</strong> nasce da parceria entre <strong>Gustavo Gomes</strong> e <strong>Paloma Dutra</strong> — unindo a vivência prática em cartório ao conhecimento aprofundado do Direito para entregar soluções jurídicas seguras e personalizadas. Nosso foco está na <strong>regularização de imóveis rurais e urbanos</strong>, garantindo a você tranquilidade na gestão do seu patrimônio.",
+      "Atuamos tanto na <strong>esfera judicial</strong> quanto na <strong>extrajudicial</strong> (cartório): inventários, divórcios, usucapião, doações, compra e venda e o acompanhamento de escrituras públicas até o registro no <strong>RGI</strong>. Acreditamos que cada cliente é único e merece atenção especializada para a sua necessidade específica.",
+      "Nossa advocacia é próxima e transparente: você fala diretamente com quem cuida do seu caso, entende cada etapa e recebe orientação clara antes de qualquer decisão — em <strong>Manhuaçu/MG</strong> e região, presencialmente ou online."
+    ],
+    "pillars": [
+      { "num": "Imobiliário", "label": "Regularização de imóveis rurais e urbanos." },
+      { "num": "Família & Sucessões", "label": "Inventário, divórcio, usucapião e doações." },
+      { "num": "Agende sua consulta", "label": "Fale com o escritório pelo WhatsApp." }
+    ],
+    "photo_src": "assets/area-imobiliario.jpg",
+    "photo_stamp": "Atuação judicial e extrajudicial"
+  },
+  "areas": {
+    "eyebrow": "Áreas de Atuação",
+    "h2": "Do <em>imóvel regularizado</em> à herança partilhada.",
+    "sub": "Atuamos em Direito Imobiliário, de Família e Sucessões — na Justiça e em cartório. Conheça as principais frentes do escritório em Manhuaçu/MG e região.",
+    "items": [
+      {
+        "label": "Regularização de Imóveis",
+        "description": "Imóvel rural ou urbano sem matrícula, com área divergente ou construção não averbada? Conduzimos a regularização — do georreferenciamento e da retificação até o registro definitivo no cartório.",
+        "image": "assets/area-imobiliario.jpg",
+        "tags": ["Rural e urbano", "Retificação de área", "Registro no RGI"],
+        "slug": "regularizacao-imoveis",
+        "h3": "Regularização de <em>Imóveis</em>",
+        "featured": true,
+        "href": "regularizacao-imoveis/"
+      },
+      {
+        "label": "Usucapião",
+        "description": "Quem ocupa um imóvel por anos como dono pode se tornar proprietário. Atuamos na usucapião judicial e na extrajudicial (ata notarial em cartório), em todas as modalidades.",
+        "image": "assets/area-civel.jpg",
+        "tags": ["Judicial e extrajudicial", "Ata notarial", "Posse mansa"],
+        "slug": "usucapiao",
+        "h3": "Usucapião",
+        "featured": true,
+        "href": "usucapiao/"
+      },
+      {
+        "label": "Direito Imobiliário",
+        "description": "Análise de matrícula e certidões, contratos, distratos, condomínio, locação e conflitos de posse e propriedade — segurança jurídica em cada negócio imobiliário.",
+        "image": "assets/area-empresarial.jpg",
+        "tags": ["Matrícula e certidões", "Contratos", "Posse e propriedade"],
+        "slug": "direito-imobiliario",
+        "h3": "Direito <em>Imobiliário</em>",
+        "featured": false,
+        "href": "direito-imobiliario/"
+      },
+      {
+        "label": "Compra e Venda de Imóveis",
+        "description": "Assessoria completa na compra e venda: conferimos ônus e dívidas, elaboramos o contrato e a escritura e cuidamos do ITBI e do registro para uma transação sem surpresas.",
+        "image": "assets/area-tributario.jpg",
+        "tags": ["Ônus e dívidas", "ITBI", "Registro seguro"],
+        "slug": "compra-venda",
+        "h3": "Compra e <em>Venda</em> de Imóveis",
+        "featured": false,
+        "href": "compra-venda/"
+      },
+      {
+        "label": "Escrituras e Registro",
+        "description": "Lavratura e acompanhamento de escrituras públicas até o registro no RGI. Com vivência cartorária, cuidamos de cada etapa entre o tabelionato e a matrícula do imóvel.",
+        "image": "assets/area-juizados.jpg",
+        "tags": ["Escritura pública", "Acompanhamento ao RGI", "Procurações"],
+        "slug": "escrituras-registro",
+        "h3": "Escrituras e <em>Registro</em>",
+        "featured": false,
+        "href": "escrituras-registro/"
+      },
+      {
+        "label": "Inventário e Partilha",
+        "description": "Inventário judicial ou extrajudicial (em cartório), com partilha de bens, regularização da herança e orientação sobre o ITCMD — para resolver com agilidade e segurança.",
+        "image": "assets/area-familia.jpg",
+        "tags": ["Judicial e extrajudicial", "Partilha de bens", "ITCMD"],
+        "slug": "inventario",
+        "h3": "Inventário e <em>Partilha</em>",
+        "featured": false,
+        "href": "inventario/"
+      },
+      {
+        "label": "Divórcio",
+        "description": "Divórcio consensual ou litigioso, judicial ou em cartório, com partilha de bens, guarda e pensão tratadas com discrição e respeito ao seu momento.",
+        "image": "assets/area-criminal.jpg",
+        "tags": ["Consensual ou litigioso", "Partilha", "Guarda e pensão"],
+        "slug": "divorcio",
+        "h3": "<em>Divórcio</em>",
+        "featured": false,
+        "href": "divorcio/"
+      },
+      {
+        "label": "Direito de Família",
+        "description": "Guarda, pensão alimentícia, união estável, regime de bens e reconhecimento de vínculos — orientação acolhedora para proteger quem você ama.",
+        "image": "assets/area-consumidor.jpg",
+        "tags": ["Guarda e pensão", "União estável", "Regime de bens"],
+        "slug": "direito-familia",
+        "h3": "Direito de <em>Família</em>",
+        "featured": false,
+        "href": "direito-familia/"
+      },
+      {
+        "label": "Sucessões e Heranças",
+        "description": "Planejamento sucessório, testamento, defesa dos direitos dos herdeiros e organização do patrimônio — para que sua história e seus bens sejam preservados.",
+        "image": "assets/area-previdenciario.jpg",
+        "tags": ["Planejamento sucessório", "Testamento", "Direitos do herdeiro"],
+        "slug": "sucessoes",
+        "h3": "Sucessões e <em>Heranças</em>",
+        "featured": false,
+        "href": "sucessoes/"
+      },
+      {
+        "label": "Doações e Testamentos",
+        "description": "Doação de bens em vida, reserva de usufruto e testamento como instrumentos de planejamento patrimonial — antecipando decisões com segurança jurídica.",
+        "image": "assets/area-trabalhista.jpg",
+        "tags": ["Doação em vida", "Reserva de usufruto", "Planejamento"],
+        "slug": "doacoes",
+        "h3": "Doações e <em>Testamentos</em>",
+        "featured": false,
+        "href": "doacoes/"
+      }
+    ]
+  },
+  "latest": {
+    "eyebrow": "Gomes & Dutra",
+    "h2": "Seus direitos <em>explicados</em>.",
+    "sub": "Conteúdo direto sobre imóveis, família e sucessões.",
+    "cta_label": "Falar pelo WhatsApp"
+  },
+  "faq": {
+    "eyebrow": "Dúvidas Frequentes",
+    "h2": "As perguntas que <em>mais recebemos</em>.",
+    "sub": "Se a sua dúvida não estiver aqui, fale com o escritório pelo WhatsApp — respondemos pessoalmente.",
+    "search_placeholder": "Procurar por palavra-chave (ex: inventário, usucapião, escritura)…",
+    "items": [
+      {
+        "q": "Como funciona a primeira consulta?",
+        "a": "Você fala diretamente com o escritório pelo WhatsApp ou pessoalmente, em Manhuaçu, para expor o seu caso. Apresentamos uma proposta de honorários por escrito antes de qualquer trabalho — e você decide com calma se quer avançar."
+      },
+      {
+        "q": "O que é regularização de imóvel e quando eu preciso?",
+        "a": "Regularizar é colocar a situação do imóvel <strong>em dia no cartório de registro</strong>: abrir matrícula, corrigir a área que diverge da escritura, averbar construções e desmembramentos ou ajustar a documentação rural (CCIR, CAR, georreferenciamento). É essencial para vender, financiar, inventariar ou usar o imóvel como garantia com segurança."
+      },
+      {
+        "q": "Dá para fazer inventário ou divórcio em cartório?",
+        "a": "Sim. Havendo acordo entre as partes e, no caso do inventário, inexistência de testamento e de herdeiros incapazes, o procedimento pode ser feito de forma <strong>extrajudicial, em cartório</strong>, por escritura pública — em geral mais rápido que a via judicial. Avaliamos o seu caso e indicamos o melhor caminho."
+      },
+      {
+        "q": "O que é usucapião e como funciona a via extrajudicial?",
+        "a": "Usucapião é a aquisição da propriedade pela <strong>posse prolongada</strong> de um imóvel, com ânimo de dono. Além da via judicial, em muitos casos é possível reconhecê-la diretamente no cartório, por meio de <strong>ata notarial</strong> e do registro — caminho que dominamos pela nossa experiência cartorária."
+      },
+      {
+        "q": "Vocês atendem fora de Manhuaçu?",
+        "a": "Sim. Atendemos <strong>Manhuaçu/MG e região</strong> presencialmente e também <strong>online</strong>, por WhatsApp e videoconferência, para clientes de outras cidades."
+      },
+      {
+        "q": "Quanto custa contratar o escritório?",
+        "a": "Os honorários são combinados <strong>por escrito antes de qualquer trabalho</strong>, conforme a complexidade do caso. Fale com a gente pelo WhatsApp para receber uma proposta."
+      }
+    ]
+  },
+  "contact_cta": {
+    "h2": "Precisa <em>regularizar um imóvel</em> ou resolver uma questão de família?",
+    "sub": "Conte o seu caso e descubra o melhor caminho. Agende sua consulta pelo WhatsApp — atendimento em Manhuaçu/MG e região.",
+    "form": {
+      "submit_label": "Enviar Mensagem pelo WhatsApp",
+      "disclaimer": "Você será levado direto ao WhatsApp do escritório Gomes & Dutra. Respondemos o quanto antes."
+    },
+    "bg_src": "assets/area-imobiliario.jpg"
+  },
+  "footer": {
+    "tag": "Advocacia em Direito Imobiliário, de Família e Sucessões — regularização de imóveis rurais e urbanos, inventário, divórcio, usucapião e escrituras, na esfera judicial e extrajudicial, em Manhuaçu/MG e região.",
+    "contact_heading": "Contato",
+    "address_lines": [
+      "Rua Agostinho Correa de Faria, 32",
+      "Dom Correa · Manhuaçu/MG",
+      "CEP 36909-800"
+    ],
+    "copyright": "© 2026 Gomes & Dutra Advocacia · Todos os direitos reservados",
+    "site_credit_label": "Site por VejaSeuSIte",
+    "site_credit_href": "https://vejaseusite.github.io/AdvogadoTemplates/"
+  },
+  "wa_fab": {
+    "label": "Falar agora",
+    "wa_text": "Olá, Gomes & Dutra. Vim pelo site."
+  }
+}

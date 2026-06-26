@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vejaseusite.github.io/GomesEDutra/sitemap.xml

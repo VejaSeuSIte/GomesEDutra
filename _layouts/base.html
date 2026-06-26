@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>{{ page_title }}</title>
+<meta name="description" content="{{ page_description }}" />
+<meta name="theme-color" content="#0a0a0a" />
+<link rel="canonical" href="{{ canonical }}" />
+<meta property="og:type" content="{% block og_type %}website{% endblock %}" />
+<meta property="og:site_name" content="Gomes & Dutra Advocacia" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:url" content="{{ canonical }}" />
+<meta property="og:title" content="{{ page_title }}" />
+<meta property="og:description" content="{{ page_description }}" />
+<meta property="og:image" content="{{ og_image }}" />
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="icon" type="image/png" href="/GomesEDutra/assets/favicon-gd.png" />
+<link rel="apple-touch-icon" href="/GomesEDutra/assets/favicon-gd.png" />
+<link rel="alternate" type="application/rss+xml" title="Gomes & Dutra Advocacia · Blog" href="/GomesEDutra/blog/rss.xml" />
+<script src="/GomesEDutra/assets/analytics.js" defer></script>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,300;1,9..144,400;1,9..144,500&family=Inter+Tight:wght@300;400;500;600;700&family=Cinzel:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --black:#0a0a0a;--black-2:#141414;--black-3:#1c1c1c;
+    --gold:#d4af37;--gold-light:#e6c869;--gold-deep:#a88a2c;
+    --off-white:#f5f5f5;--gray-100:#e8e8e8;
+    --gray-300:#a8a8a8;--gray-500:#6a6a6a;--gray-700:#3a3a3a;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{font-family:'Inter Tight',system-ui,sans-serif;background:var(--black);color:var(--off-white);font-weight:300;line-height:1.65;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  img{max-width:100%;display:block}
+  em{color:var(--gold-light);font-style:italic;font-weight:300}
+  .wrap{max-width:1240px;margin:0 auto;padding:0 32px}
+  .narrow{max-width:760px;margin:0 auto;padding:0 32px}
+
+  /* ═════ NAV ═════ */
+  .nav{position:fixed;top:0;left:0;right:0;z-index:50;padding:16px 0;transition:all .35s}
+  .nav-inner{max-width:1320px;margin:0 auto;padding:0 36px;display:flex;align-items:center;justify-content:space-between;gap:24px}
+  .nav.scrolled{background:rgba(10,10,10,.95);backdrop-filter:blur(16px);border-bottom:1px solid rgba(212,175,55,.12);padding:10px 0}
+  .brand{display:flex;align-items:center;gap:14px}
+  .brand-seal{height:46px;width:46px;object-fit:contain}
+  .wordmark-text{display:inline-flex;flex-direction:column;line-height:1;font-family:'Cinzel','Cormorant SC',serif;color:var(--off-white);font-size:17px;font-weight:600;letter-spacing:.08em;text-transform:uppercase}
+  .wordmark-text small{font-size:8px;color:var(--gold);letter-spacing:.42em;margin-top:2px;font-family:'Inter Tight',sans-serif;text-transform:uppercase}
+  .brand-logo{height:42px;width:auto;object-fit:contain;display:block}
+  .footer-logo-img{height:48px;width:auto;object-fit:contain;display:block}
+  @media(max-width:780px){.brand-logo{height:34px}.footer-logo-img{height:42px}}
+  .nav-links{display:flex;gap:34px;font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:#fff;font-weight:500;font-family:'Inter Tight',sans-serif}
+  .nav-links a{position:relative;opacity:.85;transition:all .25s}
+  .nav-links a:hover,.nav-links a.active{opacity:1;color:var(--gold-light)}
+  .nav-cta{border:1px solid rgba(212,175,55,.5);color:var(--gold-light);padding:11px 22px;font-size:10.5px;letter-spacing:.22em;font-weight:500;text-transform:uppercase;transition:all .3s;font-family:'Inter Tight',sans-serif;display:inline-flex;align-items:center;gap:10px}
+  .nav-cta:hover{background:var(--gold);color:var(--black);border-color:var(--gold)}
+  .nav-cta svg{width:14px;height:14px;fill:currentColor}
+  .nav-burger{display:none;background:transparent;border:0;padding:10px;cursor:pointer}
+  .nav-burger svg{width:26px;height:26px;stroke:var(--gold-light);fill:none;stroke-width:1.6}
+  @media(max-width:1020px){
+    .nav-burger{display:inline-flex}
+    .nav-links{display:none;flex-direction:column;gap:0;position:absolute;top:calc(100% + 14px);left:14px;right:14px;background:rgba(10,10,10,.96);backdrop-filter:blur(20px);border:1px solid rgba(212,175,55,.18);padding:8px 0}
+    .nav.nav-open .nav-links{display:flex}
+    .nav-links a{padding:14px 24px;border-top:1px solid rgba(212,175,55,.12)}
+    .nav-links a:first-child{border-top:0}
+  }
+  /* ═════ MOBILE blog/landings ═════ */
+  @media(max-width:780px){
+    .wrap, .narrow{padding:0 22px !important}
+    .nav-inner{padding:0 22px !important; gap:10px !important}
+    .brand{gap:10px !important}
+    .brand-seal{height:38px !important; width:38px !important}
+    .wordmark-text{font-size:14px !important; white-space:nowrap !important}
+    .wordmark-text small{font-size:7px !important; letter-spacing:.4em !important}
+    .nav-cta{padding:9px 14px !important; font-size:9.5px !important}
+    .nav-cta svg{width:12px !important; height:12px !important}
+
+    /* Footer mobile */
+    .footer-grid{grid-template-columns:1fr !important; gap:36px !important}
+    .footer-bottom{flex-direction:column !important; text-align:center !important; gap:10px !important}
+    .footer-tag{font-size:14px !important; max-width:100% !important}
+
+    /* WA FAB menor */
+    .wa-fab{width:48px !important; height:48px !important; bottom:18px !important; right:18px !important}
+    .wa-fab svg{width:22px !important; height:22px !important}
+  }
+  @media(max-width:480px){
+    .wrap, .narrow{padding:0 18px !important}
+    .brand-seal{height:34px !important; width:34px !important}
+    .wordmark-text{font-size:13px !important}
+    .wordmark-text small{font-size:6.5px !important}
+  }
+
+  /* ═══ Mobile polish v10 (2026-05-29) — base ═══ */
+  @media(max-width:780px){
+    input, textarea, select{font-size:16px !important}
+    html, body{max-width:100% !important; overflow-x:hidden !important}
+    body{padding-bottom:72px !important}
+    .nav-cta{min-height:44px !important; box-sizing:border-box !important}
+    .nav-burger{min-width:44px !important; min-height:44px !important; padding:9px !important}
+    .social-icons a{min-width:44px !important; min-height:44px !important}
+    .footer-contact a{display:inline-block !important; padding:4px 0 !important; min-height:32px !important}
+    section[id]{scroll-margin-top:72px !important}
+  }
+  @media(max-width:480px){
+    body{padding-bottom:64px !important}
+  }
+  @supports(padding:max(0px)){
+    @media(max-width:780px){
+      .wa-fab{bottom:max(18px, env(safe-area-inset-bottom)) !important}
+    }
+  }
+
+  /* ═════ FOOTER ═════ */
+  .footer{background:var(--black);border-top:1px solid rgba(212,175,55,.15);color:var(--gray-300);padding:80px 0 36px;margin-top:80px}
+  .footer-grid{display:grid;grid-template-columns:1fr 1fr;gap:64px;margin-bottom:60px}
+  .footer-brand{display:flex;align-items:center;gap:16px;margin-bottom:24px}
+  .footer-brand img{height:54px;width:54px}
+  .footer-tag{font-family:'Fraunces',serif;font-style:italic;font-size:14px;color:var(--gray-300);max-width:340px;line-height:1.6}
+  .footer h4{font-family:'Inter Tight',sans-serif;color:var(--gold);font-size:11px;letter-spacing:.32em;text-transform:uppercase;margin-bottom:18px;font-weight:500}
+  .footer-contact{font-family:'Fraunces',serif;font-style:italic;font-size:14px;color:var(--gray-300);line-height:1.7}
+  .footer-contact strong{font-family:'Inter Tight',sans-serif;color:var(--off-white);font-size:12px;letter-spacing:.04em;text-transform:uppercase;display:block;margin-top:14px;margin-bottom:4px;font-style:normal;font-weight:500}
+  .footer-contact strong:first-child{margin-top:0}
+  .footer-contact a:hover{color:var(--gold-light)}
+  .social-icons{display:flex;gap:12px;margin-top:18px}
+  .social-icons a{width:38px;height:38px;border:1px solid rgba(212,175,55,.3);color:var(--gold);display:flex;align-items:center;justify-content:center;transition:all .3s}
+  .social-icons a:hover{background:var(--gold);color:var(--black);border-color:var(--gold);transform:translateY(-2px)}
+  .social-icons svg{width:16px;height:16px}
+  .footer-bottom{border-top:1px solid rgba(212,175,55,.15);padding-top:24px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:18px;font-size:12px}
+  .footer-bottom-left{font-family:'Fraunces',serif;font-style:italic;color:var(--gray-500)}
+  .footer-bottom-right{font-family:'Inter Tight',sans-serif;color:var(--gray-500);font-size:10px;letter-spacing:.28em;text-transform:uppercase}
+  @media(max-width:780px){.footer-grid{grid-template-columns:1fr;gap:36px}.footer-bottom{flex-direction:column;text-align:center}}
+
+  /* ═════ WA FAB ═════ */
+  .wa-fab{position:fixed;bottom:28px;right:28px;width:56px;height:56px;background:#25d366;border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;box-shadow:0 14px 32px rgba(37,211,102,.4);z-index:60;transition:transform .3s}
+  .wa-fab:hover{transform:scale(1.06)}
+  .wa-fab svg{width:30px;height:30px;fill:currentColor}
+
+  {% block extra_css %}{% endblock %}
+</style>
+{% block head_extra %}{% endblock %}
+</head>
+<body>
+
+<nav class="nav" id="nav">
+  <div class="nav-inner">
+    <a href="/GomesEDutra/" class="brand">
+      <img class="brand-logo" src="/GomesEDutra/assets/logo-gd.png?v=6" alt="Gomes & Dutra Advocacia" />
+    </a>
+    <button class="nav-burger" id="navBurger" aria-label="Menu" aria-expanded="false">
+      <svg viewBox="0 0 26 26"><line x1="3" y1="6" x2="23" y2="6"/><line x1="3" y1="13" x2="23" y2="13"/><line x1="3" y1="20" x2="23" y2="20"/></svg>
+    </button>
+    <div class="nav-links" id="navLinks">
+      <a href="/GomesEDutra/#escritorio">Escritório</a>
+      <a href="/GomesEDutra/#areas">Áreas</a>
+      <a href="/GomesEDutra/#sobre">Quem Somos</a>
+      <a href="/GomesEDutra/#contato">Contato</a>
+    </div>
+    <a class="nav-cta" href="https://wa.me/5533999547938?text=Ol%C3%A1%2C%20Gomes%20%26%20Dutra." target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24"><path d="M17.5 14.4c-.3-.1-1.6-.8-1.9-.9-.3-.1-.4-.1-.6.1s-.7.9-.9 1.1c-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.3-1.4-.8-.7-1.4-1.6-1.6-1.9-.2-.3 0-.4.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.3-.5.1-.2 0-.4 0-.5 0-.1-.6-1.5-.9-2.1-.2-.5-.5-.5-.6-.5h-.5c-.2 0-.5.1-.7.4-.2.3-.9 1-.9 2.4 0 1.4 1 2.8 1.1 3 .1.2 1.9 3 4.7 4.2.7.3 1.2.4 1.6.6.7.2 1.3.2 1.8.1.5-.1 1.6-.7 1.9-1.3.2-.6.2-1.2.2-1.3 0-.1-.2-.2-.5-.3M12 21.7c-1.7 0-3.3-.4-4.7-1.3l-.3-.2-3.5.9.9-3.4-.2-.4c-.9-1.5-1.4-3.2-1.4-4.9 0-5.1 4.2-9.3 9.2-9.3 2.5 0 4.8 1 6.6 2.7 1.7 1.8 2.7 4.1 2.7 6.6-.1 5.1-4.2 9.3-9.3 9.3M20 4c-2.1-2.1-5-3.3-8-3.3-6.2 0-11.3 5.1-11.3 11.3 0 2 .5 3.9 1.5 5.6L.6 23.4l5.9-1.5c1.6.9 3.5 1.4 5.4 1.4 6.2 0 11.3-5.1 11.3-11.3 0-3-1.2-5.9-3.2-8z"/></svg>
+      WhatsApp
+    </a>
+  </div>
+</nav>
+
+{% block content %}{% endblock %}
+
+<footer class="footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-brand">
+          <img class="footer-logo-img" src="/GomesEDutra/assets/logo-gd.png?v=6" alt="Gomes & Dutra Advocacia" />
+        </div>
+        <div class="footer-tag">Advocacia em Direito Imobiliário, de Família e Sucessões — regularização de imóveis rurais e urbanos, inventário, divórcio, usucapião e escrituras, na esfera judicial e extrajudicial, em Manhuaçu/MG e região.</div>
+      </div>
+      <div>
+        <h4>Contato</h4>
+        <div class="footer-contact">
+          <strong>WhatsApp</strong>
+          <a href="https://wa.me/5533999547938">(33) 99954-7938</a>
+          <strong>E-mail</strong>
+          <a href="mailto:escritoriogomesedutra@gmail.com">escritoriogomesedutra@gmail.com</a>
+          <strong>Endereço</strong>
+          Rua Agostinho Correa de Faria, 32<br/>
+          Dom Correa · Manhuaçu/MG<br/>
+          CEP 36909-800
+          <strong class="footer-schedule-label">Atendimento</strong>
+          <span class="footer-schedule">Segunda a sexta · com hora marcada · presencial e online</span>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="footer-bottom-left">© <span id="year">2026</span> Gomes & Dutra Advocacia · Todos os direitos reservados</div>
+      <div class="footer-bottom-right"><a href="https://vejaseusite.github.io/AdvogadoTemplates/" target="_blank" rel="noopener">Site por VejaSeuSIte</a></div>
+    </div>
+  </div>
+</footer>
+
+<a class="wa-fab" href="https://wa.me/5533999547938?text=Ol%C3%A1%2C%20Gomes%20%26%20Dutra." target="_blank" rel="noopener" aria-label="WhatsApp">
+  <svg viewBox="0 0 24 24"><path d="M17.5 14.4c-.3-.1-1.6-.8-1.9-.9-.3-.1-.4-.1-.6.1s-.7.9-.9 1.1c-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.3-1.4-.8-.7-1.4-1.6-1.6-1.9-.2-.3 0-.4.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.3-.5.1-.2 0-.4 0-.5 0-.1-.6-1.5-.9-2.1-.2-.5-.5-.5-.6-.5h-.5c-.2 0-.5.1-.7.4-.2.3-.9 1-.9 2.4 0 1.4 1 2.8 1.1 3 .1.2 1.9 3 4.7 4.2.7.3 1.2.4 1.6.6.7.2 1.3.2 1.8.1.5-.1 1.6-.7 1.9-1.3.2-.6.2-1.2.2-1.3 0-.1-.2-.2-.5-.3M12 21.7c-1.7 0-3.3-.4-4.7-1.3l-.3-.2-3.5.9.9-3.4-.2-.4c-.9-1.5-1.4-3.2-1.4-4.9 0-5.1 4.2-9.3 9.2-9.3 2.5 0 4.8 1 6.6 2.7 1.7 1.8 2.7 4.1 2.7 6.6-.1 5.1-4.2 9.3-9.3 9.3M20 4c-2.1-2.1-5-3.3-8-3.3-6.2 0-11.3 5.1-11.3 11.3 0 2 .5 3.9 1.5 5.6L.6 23.4l5.9-1.5c1.6.9 3.5 1.4 5.4 1.4 6.2 0 11.3-5.1 11.3-11.3 0-3-1.2-5.9-3.2-8z"/></svg>
+</a>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+  (function(){
+    var nav = document.getElementById('nav');
+    window.addEventListener('scroll', function(){
+      if (window.scrollY > 60) nav.classList.add('scrolled'); else nav.classList.remove('scrolled');
+    }, {passive:true});
+    var burger = document.getElementById('navBurger');
+    if (burger){
+      burger.addEventListener('click', function(){ nav.classList.toggle('nav-open'); });
+      document.addEventListener('keydown', function(e){ if (e.key==='Escape') nav.classList.remove('nav-open'); });
+    }
+  })();
+</script>
+{% block scripts %}{% endblock %}
+
+</body>
+</html>

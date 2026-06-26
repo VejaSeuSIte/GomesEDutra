@@ -1,0 +1,342 @@
+{
+  "regularizacao-imoveis": {
+    "slug": "regularizacao-imoveis",
+    "nav": "regularizacao-imoveis",
+    "related_category": null,
+    "schema_type": "LegalService",
+    "page_title": "Regularização de Imóveis · Gomes & Dutra Advocacia · Manhuaçu/MG",
+    "page_description": "Regularização de imóveis rurais e urbanos em Manhuaçu/MG: georreferenciamento, retificação de área e averbação, na via judicial e extrajudicial, até a matrícula.",
+    "eyebrow": "Imobiliário",
+    "h1": "Regularização de <em>Imóveis</em>.",
+    "subtitle": "Imóvel sem documento, com área errada na matrícula ou construção não averbada? Levamos seu bem rural ou urbano à regularização completa no registro.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, Gomes & Dutra. Vim pela página de regularização de imóveis.",
+    "color": "#B8862E",
+    "intro": {
+      "h2": "Do <em>papel</em> à matrícula, seu imóvel em ordem.",
+      "paragraphs": [
+        "Regularizar um imóvel é fazer com que a realidade do bem coincida com o que está registrado na <strong>matrícula do Cartório de Registro de Imóveis (RGI)</strong>. Em propriedades <strong>rurais</strong>, isso costuma envolver o <strong>georreferenciamento</strong> exigido pela Lei 10.267/2001, a certificação junto ao INCRA, a emissão e atualização de <strong>CCIR, CAR e ITR</strong> e a <strong>retificação de área</strong> quando a metragem registrada não corresponde à real. Já nos imóveis <strong>urbanos</strong>, tratamos de regularização de loteamentos e desmembramentos, <strong>averbação de construções</strong> (habite-se) e da <strong>REURB</strong> (Lei 13.465/2017) para núcleos consolidados.",
+        "Sem essa regularização, o imóvel fica travado e não pode ser <strong>vendido com segurança, financiado, dado em garantia ou partilhado em inventário</strong> — e o proprietário ainda corre risco em conflitos de área e de posse. No escritório, fazemos o diagnóstico documental completo (matrícula, certidões, plantas e memoriais) e conduzimos o caminho mais rápido e econômico, seja pela via <strong>extrajudicial</strong> (diretamente no cartório, por retificação administrativa ou ata notarial) ou pela via <strong>judicial</strong> quando há litígio ou exigência legal. O objetivo é entregar a você uma <em>matrícula limpa, atual e definitiva</em>."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Cada etapa até a <em>matrícula</em> definitiva.",
+    "bullets": [
+      {"title": "Diagnóstico documental", "text": "Levantamos matrícula atualizada, certidões, plantas, ITR/IPTU e a cadeia dominial para identificar exatamente o que falta regularizar no seu imóvel rural ou urbano."},
+      {"title": "Retificação de área e registro", "text": "Corrigimos divergências de metragem, confrontações e descrição no cartório, pela retificação administrativa (art. 213 da Lei 6.015/73) ou judicial quando necessário."},
+      {"title": "Georreferenciamento e INCRA", "text": "Articulamos com o profissional técnico o georreferenciamento e a certificação no SIGEF/INCRA, além de CCIR e CAR, para o imóvel rural ficar apto ao registro."},
+      {"title": "Averbação e regularização urbana", "text": "Averbamos construções, conduzimos desmembramentos e REURB e regularizamos a situação do imóvel junto à prefeitura e ao Registro de Imóveis."}
+    ],
+    "faq": [
+      {"q": "Quanto tempo leva para regularizar um imóvel?", "a": "Depende do que falta e da via adotada. Uma <strong>retificação extrajudicial</strong> de área no próprio cartório costuma ser mais rápida do que a via judicial; já casos com litígio, falta de documentos ou georreferenciamento pendente exigem mais etapas. No diagnóstico inicial estimamos prazo e caminho para o seu caso."},
+      {"q": "Comprei um imóvel rural só com contrato de gaveta. Dá para regularizar?", "a": "Em regra, sim. Conforme a situação, o caminho pode ser a <strong>escritura e o registro</strong> da cadeia de transmissões, a <strong>retificação</strong> da matrícula ou a <strong>usucapião</strong> quando não há título registrável. Analisamos a documentação e indicamos a solução mais segura para levar o bem à matrícula em seu nome."},
+      {"q": "Preciso regularizar mesmo já morando ou produzindo no imóvel há anos?", "a": "Sim. Posse não é o mesmo que <strong>propriedade registrada</strong>. Sem a matrícula em ordem você não vende com segurança, não financia e não dá o bem em garantia, e ainda fica exposto a conflitos. A regularização transforma a posse de fato em <strong>direito de propriedade oponível a todos</strong>."}
+    ]
+  },
+  "usucapiao": {
+    "slug": "usucapiao",
+    "nav": "usucapiao",
+    "related_category": null,
+    "schema_type": "LegalService",
+    "page_title": "Usucapião · Gomes & Dutra Advocacia · Manhuaçu/MG",
+    "page_description": "Usucapião judicial e extrajudicial em Manhuaçu/MG: ata notarial em cartório e ações de usucapião para transformar sua posse antiga em propriedade registrada.",
+    "eyebrow": "Imobiliário",
+    "h1": "Usucapião <em>Judicial e Extrajudicial</em>.",
+    "subtitle": "Quem ocupa um imóvel como dono por tempo suficiente pode se tornar proprietário de direito. Conduzimos a usucapião no cartório e na Justiça.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, Gomes & Dutra. Vim pela página de usucapião.",
+    "color": "#2E7D5F",
+    "intro": {
+      "h2": "Sua <em>posse</em> antiga vira propriedade registrada.",
+      "paragraphs": [
+        "A usucapião é a forma de adquirir a propriedade pela <strong>posse prolongada</strong>, mansa, pacífica, contínua e com ânimo de dono. A lei prevê várias modalidades, com prazos diferentes: a <strong>extraordinária</strong> (15 anos, ou 10 com moradia ou produção no imóvel), a <strong>ordinária</strong> (10 anos com justo título e boa-fé), a <strong>especial urbana</strong> (5 anos, até 250 m², para moradia), a <strong>especial rural</strong> (5 anos, até 50 hectares, com trabalho e moradia) e a <strong>familiar</strong> (2 anos, quando o ex-cônjuge ou companheiro abandona o lar).",
+        "Desde 2015, a usucapião também pode ser feita pela <strong>via extrajudicial</strong>, diretamente no Cartório de Registro de Imóveis, a partir de uma <strong>ata notarial</strong> lavrada em Cartório de Notas que atesta o tempo e as características da posse (art. 216-A da Lei de Registros Públicos). Esse caminho costuma ser mais rápido quando há consenso entre os confrontantes. A sócia <strong>Paloma Dutra</strong> atuou por dez anos como Oficial Substituta em Cartório de Notas, onde <strong>lavrou atas notariais de usucapião</strong> — experiência que torna o escritório especialmente preparado para conduzir tanto a via cartorária quanto a <em>judicial</em>."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Da <em>posse</em> à escritura, no melhor caminho.",
+    "bullets": [
+      {"title": "Definição da modalidade", "text": "Analisamos tempo de posse, tamanho e uso do imóvel e a existência de título para enquadrar seu caso na modalidade de usucapião mais vantajosa e segura."},
+      {"title": "Prova da posse", "text": "Reunimos contas, fotos, declarações de confrontantes, comprovantes de pagamento de tributos e testemunhas que demonstrem a posse mansa, pacífica e com ânimo de dono."},
+      {"title": "Usucapião extrajudicial", "text": "Quando há consenso, conduzimos a ata notarial e o pedido diretamente no Registro de Imóveis — caminho normalmente mais rápido do que a ação judicial."},
+      {"title": "Ação de usucapião", "text": "Havendo litígio, confrontante incerto ou exigência legal, ajuizamos a ação de usucapião com a documentação organizada para obter a sentença e o registro."}
+    ],
+    "faq": [
+      {"q": "Qual a diferença entre usucapião judicial e extrajudicial?", "a": "A <strong>extrajudicial</strong> tramita no Cartório de Registro de Imóveis, a partir de uma <strong>ata notarial</strong> e da concordância dos confrontantes; costuma ser mais rápida. A <strong>judicial</strong> corre na Justiça e é necessária quando há discordância, confrontante desconhecido ou outro impasse que o cartório não possa resolver."},
+      {"q": "Há quanto tempo preciso estar no imóvel para usucapir?", "a": "Varia conforme a modalidade: a usucapião <strong>familiar</strong> exige 2 anos; a <strong>especial urbana e rural</strong>, 5 anos; a <strong>ordinária</strong>, 10 anos; e a <strong>extraordinária</strong>, 15 anos (ou 10 com moradia ou produção). Avaliamos sua situação para identificar o prazo e os requisitos aplicáveis."},
+      {"q": "Posso usucapir um imóvel financiado ou em nome de outra pessoa?", "a": "Imóveis <strong>públicos não podem</strong> ser usucapidos. Já um imóvel particular registrado em nome de terceiro pode, desde que presentes a posse com ânimo de dono e o prazo legal. Bens com financiamento ou garantia exigem análise específica, que fazemos antes de iniciar."}
+    ]
+  },
+  "direito-imobiliario": {
+    "slug": "direito-imobiliario",
+    "nav": "direito-imobiliario",
+    "related_category": null,
+    "schema_type": "LegalService",
+    "page_title": "Direito Imobiliário · Gomes & Dutra Advocacia · Manhuaçu/MG",
+    "page_description": "Direito imobiliário em Manhuaçu/MG: contratos, análise de matrícula, distratos, locação e conflitos de posse e propriedade, na via judicial e extrajudicial.",
+    "eyebrow": "Imobiliário",
+    "h1": "Direito <em>Imobiliário</em>.",
+    "subtitle": "Comprar, vender, alugar ou disputar um imóvel exige segurança jurídica. Cuidamos de contratos, documentos e conflitos para proteger o seu patrimônio.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, Gomes & Dutra. Vim pela página de direito imobiliário.",
+    "color": "#2C6E8F",
+    "intro": {
+      "h2": "Segurança em cada <em>negócio</em> com imóveis.",
+      "paragraphs": [
+        "O direito imobiliário cuida de tudo que envolve a <strong>posse e a propriedade</strong> de imóveis: contratos de compra e venda, permuta, financiamento e locação, distratos, condomínio, incorporação e os conflitos sobre quem é o legítimo possuidor ou proprietário. Antes de qualquer negócio, fazemos a <strong>due diligence</strong> — análise da matrícula atualizada, das certidões do imóvel e do vendedor — para identificar penhoras, hipotecas, dívidas, inventários e outros riscos que poderiam contaminar a transação.",
+        "Quando o conflito já existe, atuamos nas <strong>ações possessórias</strong> (reintegração e manutenção de posse, interdito proibitório), na ação reivindicatória, na revisão e rescisão de contratos, na cobrança de aluguéis e no despejo. Conduzimos o caso pela via <strong>extrajudicial</strong> sempre que a negociação for possível e mais vantajosa, e pela via <strong>judicial</strong> quando é preciso fazer valer o seu direito. O objetivo é o mesmo: <em>proteger o seu patrimônio e dar segurança jurídica a cada passo</em>."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Seu patrimônio <em>protegido</em> do contrato ao conflito.",
+    "bullets": [
+      {"title": "Due diligence do imóvel", "text": "Analisamos matrícula, certidões e a situação do vendedor para revelar penhoras, dívidas e pendências antes de você assinar qualquer negócio."},
+      {"title": "Contratos e distratos", "text": "Elaboramos e revisamos contratos de compra e venda, permuta, locação e financiamento, com cláusulas que protegem você — e cuidamos de distratos quando o negócio precisa ser desfeito."},
+      {"title": "Locação e despejo", "text": "Atuamos em contratos de aluguel, cobrança de encargos, revisão e ações de despejo, conforme a Lei do Inquilinato (Lei 8.245/91)."},
+      {"title": "Conflitos de posse e propriedade", "text": "Conduzimos ações possessórias, reivindicatórias e de divisão, defendendo quem tem direito à posse ou à propriedade do imóvel."}
+    ],
+    "faq": [
+      {"q": "Por que fazer a análise do imóvel antes de comprar?", "a": "Porque a <strong>matrícula e as certidões</strong> revelam riscos invisíveis no anúncio: penhoras, hipotecas, ações contra o vendedor, dívidas de condomínio e tributos. A due diligence evita que você compre um problema e perca dinheiro com um negócio que poderia ser anulado."},
+      {"q": "O comprador parou de pagar o imóvel que vendi. O que posso fazer?", "a": "É possível notificar o comprador e, conforme o contrato, buscar a <strong>rescisão com reintegração de posse</strong> ou a cobrança das parcelas. Analisamos as cláusulas e a melhor estratégia — extrajudicial ou judicial — para reaver o imóvel ou receber o que é devido."},
+      {"q": "Meu vizinho avançou sobre o meu terreno. Como resolver?", "a": "Conforme o caso, cabe ação possessória (reintegração ou manutenção de posse), demarcatória ou retificação de área. Reunimos a <strong>prova da posse e das divisas</strong> — matrícula, planta e levantamento — e buscamos a solução, primeiro pela conciliação e, se preciso, na Justiça."}
+    ]
+  },
+  "compra-venda": {
+    "slug": "compra-venda",
+    "nav": "compra-venda",
+    "related_category": null,
+    "schema_type": "LegalService",
+    "page_title": "Compra e Venda de Imóveis · Gomes & Dutra Advocacia · Manhuaçu/MG",
+    "page_description": "Assessoria em compra e venda de imóveis em Manhuaçu/MG: contrato, escritura, ITBI, certidões e registro, com segurança jurídica na via extrajudicial e judicial.",
+    "eyebrow": "Imobiliário",
+    "h1": "Compra e Venda de <em>Imóveis</em>.",
+    "subtitle": "Comprar ou vender um imóvel é uma das decisões mais importantes da vida. Garantimos que a negociação seja segura, do contrato ao registro na matrícula.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, Gomes & Dutra. Vim pela página de compra e venda de imóveis.",
+    "color": "#7C4A55",
+    "intro": {
+      "h2": "Sua <em>negociação</em> segura, do sinal ao registro.",
+      "paragraphs": [
+        "Numa compra e venda de imóvel, os problemas costumam aparecer depois — quando já houve pagamento. Por isso, antes de assinar, verificamos a <strong>matrícula atualizada e as certidões</strong> do imóvel e do vendedor: existência de <strong>ônus, hipotecas, penhoras, dívidas de IPTU e de condomínio, ações judiciais</strong> e a regularidade da cadeia de propriedade. Elaboramos o <strong>contrato de compra e venda</strong> (ou a promessa) com cláusulas de preço, prazos, garantias e penalidades que protegem a parte que representamos.",
+        "Em seguida, cuidamos do caminho até a <strong>transferência definitiva</strong>: orientação sobre o <strong>ITBI</strong>, a lavratura da <strong>escritura pública</strong> no Cartório de Notas (ou o uso do contrato de financiamento como título) e o <strong>registro na matrícula</strong> do Cartório de Registro de Imóveis — porque, no Brasil, <em>só é dono quem registra</em>. A experiência cartorária da sócia <strong>Paloma Dutra</strong>, que por dez anos lavrou escrituras de compra e venda como Oficial Substituta, agrega segurança a cada etapa do negócio."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Cada cautela para uma compra <em>sem surpresas</em>.",
+    "bullets": [
+      {"title": "Verificação de ônus e dívidas", "text": "Conferimos matrícula e certidões do imóvel e do vendedor para revelar hipotecas, penhoras, ações e débitos antes de qualquer pagamento."},
+      {"title": "Contrato sob medida", "text": "Elaboramos a promessa ou o contrato de compra e venda com cláusulas de preço, prazos, garantias e multas que protegem você no negócio."},
+      {"title": "ITBI e escritura", "text": "Orientamos o recolhimento do ITBI e acompanhamos a lavratura da escritura pública, garantindo que o documento reflita fielmente o combinado."},
+      {"title": "Registro na matrícula", "text": "Cuidamos do registro da transferência no Cartório de Registro de Imóveis, que é o ato que efetivamente torna você o proprietário."}
+    ],
+    "faq": [
+      {"q": "Assinei o contrato de compra. Já sou o dono do imóvel?", "a": "Ainda não. O contrato gera direitos e obrigações, mas a propriedade só se transfere com o <strong>registro da escritura na matrícula</strong> do Cartório de Registro de Imóveis. Enquanto não registra, você não é o proprietário de direito — por isso cuidamos do negócio até o registro."},
+      {"q": "Quais impostos e custos existem na compra de um imóvel?", "a": "O principal é o <strong>ITBI</strong> (imposto de transmissão, recolhido ao município), além dos custos de <strong>escritura no Cartório de Notas e de registro no RGI</strong>. Os valores variam conforme o município e o preço do imóvel; orientamos cada um deles antes da assinatura."},
+      {"q": "Como saber se o imóvel não tem dívidas ou está penhorado?", "a": "Pela análise da <strong>matrícula atualizada e das certidões</strong> do imóvel e do vendedor (negativas de débitos, certidões cíveis e trabalhistas). Esses documentos revelam hipotecas, penhoras e ações que podem comprometer a compra. Fazemos essa verificação completa antes de você fechar o negócio."}
+    ]
+  },
+  "escrituras-registro": {
+    "slug": "escrituras-registro",
+    "nav": "escrituras-registro",
+    "related_category": null,
+    "schema_type": "LegalService",
+    "page_title": "Escrituras e Registro de Imóveis · Gomes & Dutra Advocacia · Manhuaçu/MG",
+    "page_description": "Escrituras públicas e registro de imóveis em Manhuaçu/MG: lavratura, procurações, retificações e acompanhamento da escritura até a matrícula no RGI.",
+    "eyebrow": "Imobiliário",
+    "h1": "Escrituras e <em>Registro</em>.",
+    "subtitle": "A escritura formaliza o negócio; o registro torna você dono. Conduzimos o caminho completo, do tabelionato ao Cartório de Registro de Imóveis.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, Gomes & Dutra. Vim pela página de escrituras e registro de imóveis.",
+    "color": "#4E647F",
+    "intro": {
+      "h2": "Da <em>escritura</em> ao registro na matrícula.",
+      "paragraphs": [
+        "Muita gente confunde escritura com registro, e a diferença é decisiva. A <strong>escritura pública</strong> é o documento lavrado no <strong>Cartório de Notas (tabelionato)</strong> que formaliza a vontade das partes — compra e venda, doação, permuta, inventário, divórcio. Já o <strong>registro</strong> é o ato feito no <strong>Cartório de Registro de Imóveis (RGI)</strong> que lança o negócio na matrícula do bem e, só então, transfere a propriedade. No Brasil, <strong>quem não registra não é dono</strong>: a escritura na gaveta não basta.",
+        "Cuidamos de todo esse percurso: a redação e a conferência da <strong>minuta da escritura</strong>, a reunião das certidões e dos documentos exigidos pelo tabelião, a elaboração de <strong>procurações</strong>, as <strong>retificações</strong> de escrituras e matrículas com erros, e o acompanhamento até o registro final. A sócia <strong>Paloma Dutra</strong> atuou por dez anos como Oficial Substituta em Cartório de Notas, onde <strong>lavrou escrituras de compra e venda, doação, inventário e divórcio</strong> — vivência que dá ao escritório um domínio raro sobre a exigência de cada documento e a melhor forma de <em>evitar exigências e devoluções no cartório</em>."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Cada documento <em>correto</em> até o registro.",
+    "bullets": [
+      {"title": "Preparação da escritura", "text": "Redigimos e conferimos a minuta da escritura e reunimos as certidões exigidas pelo tabelionato, evitando exigências e atrasos na lavratura."},
+      {"title": "Procurações e representações", "text": "Elaboramos procurações públicas e orientamos a representação das partes quando alguém não pode comparecer pessoalmente ao ato."},
+      {"title": "Retificação de escrituras e matrículas", "text": "Corrigimos erros de nome, qualificação, área e descrição em escrituras e na matrícula, para que os documentos fiquem coerentes entre si."},
+      {"title": "Acompanhamento do registro", "text": "Levamos a escritura ao Cartório de Registro de Imóveis e acompanhamos até o registro na matrícula, que é o ato que efetiva a propriedade."}
+    ],
+    "faq": [
+      {"q": "Qual a diferença entre escritura e registro?", "a": "A <strong>escritura</strong> é lavrada no Cartório de Notas e formaliza o negócio; o <strong>registro</strong> é feito no Cartório de Registro de Imóveis e é o que efetivamente transfere a propriedade, lançando o ato na matrícula. Ter a escritura sem registrar significa não ser, ainda, o dono de direito."},
+      {"q": "Todo negócio com imóvel precisa de escritura pública?", "a": "Em regra, sim, para imóveis acima de <strong>30 salários mínimos</strong> (art. 108 do Código Civil). Há exceções, como contratos de financiamento habitacional, que valem como título por força de lei. Avaliamos o seu caso e indicamos se o caminho é a escritura pública ou o instrumento particular."},
+      {"q": "Há um erro na minha escritura ou na matrícula. Dá para corrigir?", "a": "Sim. Erros de nome, estado civil, qualificação, área ou descrição podem ser corrigidos por <strong>retificação</strong>, em regra no próprio cartório (via extrajudicial) e, quando há divergência mais séria, pela via judicial. Analisamos o documento e conduzimos a correção pelo caminho adequado."}
+    ]
+  },
+  "inventario": {
+    "slug": "inventario",
+    "nav": "inventario",
+    "related_category": null,
+    "schema_type": "LegalService",
+    "page_title": "Inventário e Partilha · Gomes & Dutra Advocacia · Manhuaçu/MG",
+    "page_description": "Inventário e partilha em Manhuaçu/MG, judicial e extrajudicial (cartório): transmissão de bens aos herdeiros, ITCMD, testamento e prazos legais.",
+    "eyebrow": "Família e Sucessões",
+    "h1": "Inventário e <em>Partilha</em>.",
+    "subtitle": "Após o falecimento, os bens só se transferem aos herdeiros pelo inventário. Conduzimos o processo no cartório ou na Justiça, com cuidado e agilidade.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, Gomes & Dutra. Vim pela página de inventário e partilha.",
+    "color": "#B0633A",
+    "intro": {
+      "h2": "A transmissão da <em>herança</em> feita com cuidado.",
+      "paragraphs": [
+        "O inventário é o procedimento que apura os <strong>bens, direitos e dívidas</strong> deixados por quem faleceu e os transfere aos herdeiros pela <strong>partilha</strong>. Ele pode ser feito de duas formas: <strong>extrajudicial</strong>, em cartório, por escritura pública, quando todos os herdeiros são <strong>maiores, capazes e estão de acordo</strong> (Lei 11.441/2007); ou <strong>judicial</strong>, obrigatório quando há herdeiro menor ou incapaz, testamento ou conflito entre os herdeiros. O prazo recomendado para abrir o inventário é de <strong>60 dias</strong> a contar do falecimento, sob pena de multa sobre o ITCMD em Minas Gerais.",
+        "Conduzimos todo o procedimento: levantamento de bens e dívidas, qualificação dos herdeiros, cálculo e recolhimento do <strong>ITCMD</strong> (imposto estadual sobre herança), elaboração do <strong>plano de partilha</strong> e a transferência final dos imóveis e demais bens. A sócia <strong>Paloma Dutra</strong>, com dez anos de Cartório de Notas, <strong>lavrou escrituras de inventário</strong> como Oficial Substituta — experiência que torna a via extrajudicial, quando cabível, mais ágil e segura. O objetivo é <em>resolver a sucessão preservando a relação entre a família</em>."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Da abertura à <em>partilha</em>, sem desgaste.",
+    "bullets": [
+      {"title": "Diagnóstico da sucessão", "text": "Levantamos bens, dívidas e herdeiros e definimos se o inventário pode ser feito no cartório (extrajudicial) ou se exige a via judicial."},
+      {"title": "Inventário extrajudicial", "text": "Quando há consenso e todos são capazes, conduzimos o inventário por escritura pública em cartório — caminho normalmente mais rápido e econômico."},
+      {"title": "Inventário judicial", "text": "Havendo menor, incapaz, testamento ou conflito, atuamos no processo judicial, defendendo os direitos dos herdeiros que representamos."},
+      {"title": "ITCMD e transferência dos bens", "text": "Calculamos e orientamos o recolhimento do ITCMD e cuidamos da transferência final dos imóveis e demais bens para o nome dos herdeiros."}
+    ],
+    "faq": [
+      {"q": "Quando o inventário pode ser feito em cartório?", "a": "Quando <strong>todos os herdeiros são maiores e capazes</strong> e há <strong>acordo</strong> sobre a partilha, e desde que, em regra, não haja testamento. Nesses casos, o inventário extrajudicial é feito por escritura pública, costuma ser mais rápido que o judicial e exige a presença de advogado."},
+      {"q": "Existe prazo para abrir o inventário?", "a": "Sim. A recomendação legal é abrir em <strong>60 dias</strong> a contar do falecimento. Em Minas Gerais, o atraso pode gerar <strong>multa sobre o ITCMD</strong>. Além disso, deixar para depois costuma encarecer e complicar a sucessão, sobretudo se surgirem novas dívidas ou desentendimentos."},
+      {"q": "Tem que pagar imposto para receber a herança?", "a": "Sim, o <strong>ITCMD</strong>, imposto estadual sobre transmissão por morte, calculado sobre o valor dos bens. Sem o recolhimento, os imóveis não são transferidos aos herdeiros. Calculamos o valor devido e orientamos sobre eventuais isenções e parcelamentos previstos na legislação de Minas Gerais."}
+    ]
+  },
+  "divorcio": {
+    "slug": "divorcio",
+    "nav": "divorcio",
+    "related_category": null,
+    "schema_type": "LegalService",
+    "page_title": "Divórcio · Gomes & Dutra Advocacia · Manhuaçu/MG",
+    "page_description": "Divórcio consensual e litigioso em Manhuaçu/MG, judicial e extrajudicial (cartório): partilha de bens, guarda, pensão e dissolução de união estável.",
+    "eyebrow": "Família e Sucessões",
+    "h1": "Divórcio <em>Consensual e Litigioso</em>.",
+    "subtitle": "O fim do casamento pode ser conduzido com respeito e técnica. Cuidamos do divórcio no cartório ou na Justiça, com a partilha, a guarda e a pensão bem resolvidas.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, Gomes & Dutra. Vim pela página de divórcio.",
+    "color": "#1F8A8A",
+    "intro": {
+      "h2": "Encerrar com <em>dignidade</em> e segurança jurídica.",
+      "paragraphs": [
+        "O divórcio pode ser <strong>consensual</strong>, quando o casal concorda com os termos, ou <strong>litigioso</strong>, quando há divergência sobre partilha, guarda ou pensão. Quando há acordo e <strong>não há filhos menores ou incapazes</strong>, o divórcio pode ser feito de forma <strong>extrajudicial</strong>, por escritura pública em cartório, de modo rápido e sem audiência (Lei 11.441/2007). Havendo filhos menores, incapazes ou litígio, o caminho é o <strong>judicial</strong>, mas mesmo nele buscamos sempre a solução mais célere e menos desgastante.",
+        "Em qualquer formato, o divórcio envolve decisões importantes: a <strong>partilha de bens</strong> conforme o regime do casamento, a <strong>guarda</strong> e a convivência dos filhos, a <strong>pensão alimentícia</strong> e o uso do nome. Tratamos também da <strong>dissolução de união estável</strong>, que segue lógica semelhante. A sócia <strong>Paloma Dutra</strong>, pós-graduanda em Direito de Família e Sucessões e com dez anos de Cartório de Notas, onde <strong>lavrou escrituras de divórcio</strong>, conduz o caso com técnica e sensibilidade, priorizando o seu interesse e o <em>bem-estar dos filhos</em>."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Cada questão do divórcio <em>bem resolvida</em>.",
+    "bullets": [
+      {"title": "Consensual ou litigioso", "text": "Avaliamos se o caso comporta acordo e indicamos a via mais rápida — o cartório, quando possível, ou a Justiça quando há filhos menores ou conflito."},
+      {"title": "Partilha de bens", "text": "Organizamos a divisão do patrimônio conforme o regime do casamento ou da união estável, com atenção a imóveis, empresas e dívidas do casal."},
+      {"title": "Guarda e pensão", "text": "Definimos guarda, convivência e pensão alimentícia dos filhos, sempre orientados pelo melhor interesse da criança e do adolescente."},
+      {"title": "União estável", "text": "Cuidamos do reconhecimento e da dissolução da união estável, com a mesma estrutura de partilha, guarda e alimentos."}
+    ],
+    "faq": [
+      {"q": "Dá para fazer o divórcio em cartório?", "a": "Sim, quando o casal está de <strong>acordo</strong> e <strong>não há filhos menores ou incapazes</strong> (nem gestação). Nesse caso, o divórcio é feito por escritura pública, com presença de advogado, de forma rápida e sem audiência. Havendo filhos menores ou litígio, o caminho passa a ser o judicial."},
+      {"q": "Como ficam os bens no divórcio?", "a": "Depende do <strong>regime de bens</strong> do casamento. Na comunhão parcial, partilham-se os bens adquiridos na constância da união; na comunhão universal, praticamente todo o patrimônio; na separação total, cada um conserva o seu. Analisamos o regime e o patrimônio para organizar uma partilha justa."},
+      {"q": "Preciso resolver o divórcio e a pensão dos filhos ao mesmo tempo?", "a": "Não necessariamente. O <strong>divórcio pode ser decretado</strong> mesmo que ainda haja discussão sobre partilha ou alimentos, que podem ser resolvidos em seguida. Em muitos casos, isso permite encerrar o vínculo conjugal mais rápido, sem prejudicar a definição da guarda e da pensão."}
+    ]
+  },
+  "direito-familia": {
+    "slug": "direito-familia",
+    "nav": "direito-familia",
+    "related_category": null,
+    "schema_type": "LegalService",
+    "page_title": "Direito de Família · Gomes & Dutra Advocacia · Manhuaçu/MG",
+    "page_description": "Direito de família em Manhuaçu/MG: guarda, pensão alimentícia, união estável, regime de bens e planejamento familiar, na via judicial e extrajudicial.",
+    "eyebrow": "Família e Sucessões",
+    "h1": "Direito de <em>Família</em>.",
+    "subtitle": "As relações familiares pedem cuidado técnico e humano. Atuamos em guarda, pensão, união estável e regime de bens, sempre buscando a solução mais equilibrada.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, Gomes & Dutra. Vim pela página de direito de família.",
+    "color": "#A1495C",
+    "intro": {
+      "h2": "As <em>relações</em> que mais importam, bem cuidadas.",
+      "paragraphs": [
+        "O direito de família trata dos <strong>vínculos mais sensíveis da vida</strong>: a guarda e a convivência dos filhos, a <strong>pensão alimentícia</strong>, o reconhecimento e a dissolução da <strong>união estável</strong>, o regime de bens do casamento e os pactos antenupciais. São temas em que a técnica jurídica precisa caminhar junto com a escuta e o respeito — porque cada decisão afeta diretamente pessoas e, muitas vezes, crianças.",
+        "Atuamos na fixação, na revisão e na execução de <strong>alimentos</strong>, na definição da <strong>guarda</strong> (unilateral ou compartilhada) e do regime de convivência, no reconhecimento de união estável e na escolha ou alteração do <strong>regime de bens</strong>. Sempre que possível, conduzimos os acordos pela via <strong>consensual e extrajudicial</strong>, mais rápida e menos desgastante; quando há conflito, defendemos com firmeza o interesse de quem representamos e, acima de tudo, o <em>melhor interesse da criança e do adolescente</em>. A sócia <strong>Paloma Dutra</strong> é pós-graduanda em Direito de Família e Sucessões, área de dedicação especial do escritório."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Soluções <em>equilibradas</em> para a sua família.",
+    "bullets": [
+      {"title": "Guarda e convivência", "text": "Definimos guarda unilateral ou compartilhada e o regime de convivência, sempre orientados pelo melhor interesse dos filhos."},
+      {"title": "Pensão alimentícia", "text": "Atuamos na fixação, na revisão e na execução de alimentos, equilibrando a necessidade de quem recebe e a possibilidade de quem paga."},
+      {"title": "União estável", "text": "Cuidamos do reconhecimento e da dissolução da união estável, da partilha e da definição de direitos entre os companheiros."},
+      {"title": "Regime de bens", "text": "Orientamos a escolha do regime de bens, o pacto antenupcial e, quando cabível, a alteração de regime na constância do casamento."}
+    ],
+    "faq": [
+      {"q": "Guarda compartilhada significa dividir o tempo pela metade?", "a": "Não. A <strong>guarda compartilhada</strong> significa que ambos os pais decidem juntos sobre a vida do filho; ela não exige divisão igual do tempo. A criança costuma ter uma residência de referência, e define-se um <strong>regime de convivência</strong> equilibrado com o outro genitor."},
+      {"q": "Como é definido o valor da pensão alimentícia?", "a": "Pelo <strong>binômio necessidade e possibilidade</strong>: pondera-se o que a criança ou o alimentando precisa e o quanto quem paga pode arcar. Não há percentual fixo em lei. O valor pode ser <strong>revisto</strong> sempre que essas condições mudarem, para mais ou para menos."},
+      {"q": "Vale a pena reconhecer a união estável formalmente?", "a": "Sim, pode trazer segurança. O reconhecimento por <strong>escritura ou contrato</strong> define a data de início, o regime de bens e os direitos do casal, evitando discussões futuras sobre partilha e herança. Orientamos a melhor forma de formalizar e proteger a relação."}
+    ]
+  },
+  "sucessoes": {
+    "slug": "sucessoes",
+    "nav": "sucessoes",
+    "related_category": null,
+    "schema_type": "LegalService",
+    "page_title": "Sucessões e Heranças · Gomes & Dutra Advocacia · Manhuaçu/MG",
+    "page_description": "Direito sucessório em Manhuaçu/MG: herança, testamento, planejamento sucessório, holding familiar e defesa dos direitos dos herdeiros, judicial e extrajudicial.",
+    "eyebrow": "Família e Sucessões",
+    "h1": "Sucessões e <em>Heranças</em>.",
+    "subtitle": "Organizar a transmissão do patrimônio em vida evita conflitos e custos. Atuamos no planejamento sucessório e na defesa dos direitos dos herdeiros.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, Gomes & Dutra. Vim pela página de sucessões e heranças.",
+    "color": "#7A5A93",
+    "intro": {
+      "h2": "O <em>patrimônio</em> da família transmitido em paz.",
+      "paragraphs": [
+        "O direito das sucessões cuida da <strong>transmissão do patrimônio</strong> após a morte e, idealmente, da sua <strong>organização ainda em vida</strong>. A lei garante aos <strong>herdeiros necessários</strong> (descendentes, ascendentes e cônjuge) a chamada <strong>legítima</strong> — metade dos bens, que não pode ser livremente disposta — enquanto a outra metade pode ser destinada por <strong>testamento</strong>. Conhecer a <strong>ordem de vocação hereditária</strong> e os limites da liberdade de testar é essencial para proteger quem fica.",
+        "Atuamos tanto na fase de <strong>planejamento</strong> — elaboração de testamento, doações com reserva de usufruto, constituição de <strong>holding familiar</strong> para organizar e proteger o patrimônio e reduzir conflitos e custos futuros — quanto na <strong>defesa dos herdeiros</strong> em inventários e disputas: pedido de <strong>colação</strong>, ação de <strong>sonegados</strong> quando há ocultação de bens, anulação de partilhas e reconhecimento de direitos. A sócia <strong>Paloma Dutra</strong>, pós-graduanda em Direito de Família e Sucessões, conduz esses casos com o objetivo de <em>preservar tanto o patrimônio quanto a harmonia da família</em>."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Da <em>herança</em> ao planejamento, com técnica.",
+    "bullets": [
+      {"title": "Planejamento sucessório", "text": "Estruturamos a transmissão do patrimônio em vida, com testamento, doações e holding familiar, para reduzir conflitos, custos e o impacto do ITCMD."},
+      {"title": "Testamento", "text": "Elaboramos e orientamos o testamento dentro dos limites da legítima, garantindo que a sua vontade seja válida e respeitada."},
+      {"title": "Defesa dos herdeiros", "text": "Atuamos na defesa de quem foi prejudicado, com pedido de colação, ação de sonegados e impugnação de partilhas injustas."},
+      {"title": "Holding familiar", "text": "Estruturamos holdings para organizar e proteger o patrimônio da família e facilitar a futura sucessão entre os herdeiros."}
+    ],
+    "faq": [
+      {"q": "Posso deixar todos os meus bens para uma só pessoa?", "a": "Em regra, não, se você tiver <strong>herdeiros necessários</strong> (filhos, pais ou cônjuge). A lei reserva a eles a <strong>legítima</strong> — metade do patrimônio. A outra metade, a parte disponível, pode ser destinada livremente por testamento a quem você quiser, inclusive a quem não é herdeiro."},
+      {"q": "O que é planejamento sucessório e quando vale a pena?", "a": "É a organização da transmissão do patrimônio <strong>ainda em vida</strong>, por meio de testamento, doações e holding familiar. Vale a pena para <strong>reduzir conflitos, custos e tributos</strong> e dar previsibilidade à sucessão, especialmente quando há vários herdeiros, imóveis ou empresa familiar."},
+      {"q": "Um herdeiro escondeu bens da herança. O que fazer?", "a": "Cabe a <strong>ação de sonegados</strong>. O herdeiro que oculta dolosamente bens do inventário pode <strong>perder o direito sobre aquilo que sonegou</strong>. Reunimos a prova da existência dos bens e buscamos trazê-los à partilha, protegendo o quinhão dos demais herdeiros."}
+    ]
+  },
+  "doacoes": {
+    "slug": "doacoes",
+    "nav": "doacoes",
+    "related_category": null,
+    "schema_type": "LegalService",
+    "page_title": "Doações e Testamentos · Gomes & Dutra Advocacia · Manhuaçu/MG",
+    "page_description": "Doações e testamentos em Manhuaçu/MG: doação em vida, reserva de usufruto, adiantamento de legítima e planejamento patrimonial, na via judicial e extrajudicial.",
+    "eyebrow": "Família e Sucessões",
+    "h1": "Doações e <em>Testamentos</em>.",
+    "subtitle": "Doar em vida e testar com técnica é a forma mais segura de organizar o futuro do seu patrimônio e evitar disputas entre os herdeiros.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, Gomes & Dutra. Vim pela página de doações e testamentos.",
+    "color": "#8A7536",
+    "intro": {
+      "h2": "Organizar a <em>herança</em> antes que ela vire conflito.",
+      "paragraphs": [
+        "A <strong>doação</strong> é a transferência de bens em vida e pode ser uma poderosa ferramenta de planejamento — especialmente quando feita <strong>com reserva de usufruto</strong>, em que o doador continua usando e administrando o bem (morando no imóvel ou recebendo seus frutos) enquanto transfere a propriedade aos filhos. É preciso, porém, respeitar limites: a doação aos descendentes é tratada como <strong>adiantamento da legítima</strong> e deve ser levada à <strong>colação</strong> no futuro inventário, e ninguém pode doar mais do que poderia dispor em testamento, sob pena de a doação ser <strong>inoficiosa</strong>.",
+        "O <strong>testamento</strong>, por sua vez, permite destinar a <strong>parte disponível</strong> do patrimônio (até metade dos bens, quando há herdeiros necessários) e deixar disposições sobre a partilha, evitando dúvidas e brigas. Elaboramos doações e testamentos com segurança jurídica, dentro dos limites legais, e cuidamos da formalização em <strong>escritura pública</strong>. A sócia <strong>Paloma Dutra</strong>, com dez anos de Cartório de Notas, onde <strong>lavrou escrituras de doação</strong> como Oficial Substituta, conhece a fundo a forma correta de cada ato — o que dá a você a <em>tranquilidade de planejar o futuro sem deixar brechas</em>."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Cada ato <em>planejado</em> dentro da lei.",
+    "bullets": [
+      {"title": "Doação com usufruto", "text": "Estruturamos a doação de imóveis e outros bens com reserva de usufruto, transferindo a propriedade aos filhos sem que você perca o uso e a renda do bem."},
+      {"title": "Respeito à legítima", "text": "Calculamos os limites da parte disponível para que doações e testamentos sejam válidos e não sejam anulados por prejudicar herdeiros necessários."},
+      {"title": "Testamento seguro", "text": "Elaboramos o testamento dentro da forma legal, registrando com clareza a sua vontade sobre a parte disponível do patrimônio."},
+      {"title": "Planejamento patrimonial", "text": "Integramos doações e testamento a um plano que reduz conflitos, custos e tributos e organiza a sucessão da sua família."}
+    ],
+    "faq": [
+      {"q": "Posso doar um imóvel aos filhos e continuar morando nele?", "a": "Sim, por meio da <strong>doação com reserva de usufruto</strong>. Você transfere a nua-propriedade ao filho, mas mantém o <strong>usufruto</strong> — o direito de morar, usar e receber a renda do imóvel — enquanto viver. É uma forma muito usada de planejamento, que adianta a sucessão sem perder o controle do bem."},
+      {"q": "A doação para um filho prejudica a herança dos outros?", "a": "Não, se feita corretamente. A doação a descendente é considerada <strong>adiantamento de legítima</strong> e deve ser informada (colação) no inventário, para equilibrar os quinhões. Quem quiser dispensar essa compensação precisa fazê-lo expressamente e dentro da <strong>parte disponível</strong>; orientamos a forma correta."},
+      {"q": "Vale mais a pena doar em vida ou deixar por testamento?", "a": "Depende dos seus objetivos. A <strong>doação</strong> antecipa a transmissão e pode reduzir o inventário futuro; o <strong>testamento</strong> só produz efeitos após a morte e pode ser alterado a qualquer tempo. Muitas vezes a melhor solução combina os dois. Analisamos o seu patrimônio e a sua família para indicar o caminho mais seguro e econômico."}
+    ]
+  }
+}
