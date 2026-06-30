@@ -5,7 +5,7 @@
     const m = location.pathname.match(/^(.*?)(?:\/(?:index\.html)?)?$/);
     return m ? (m[1].endsWith('/') ? m[1] : m[1] + '/') : '/';
   })();
-  const BASE = RAW_BASE.includes('/GomesEDutra') ? '/GomesEDutra/' : RAW_BASE;
+  const BASE = RAW_BASE.includes('/JoaoRochaAdvogado') ? '/JoaoRochaAdvogado/' : RAW_BASE;
   const URL_JSON = BASE + 'assets/site-content.json?v=' + Date.now();
 
   let cfg;

@@ -1,0 +1,164 @@
+{
+  "defesa-criminal": {
+    "slug": "defesa-criminal",
+    "nav": "defesa-criminal",
+    "related_category": null,
+    "page_title": "Defesa Criminal · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Defesa criminal estratégica e sigilosa em todas as fases do processo penal. Atuação em prisões, flagrante, inquérito e audiências. Atendimento online em todo o Brasil.",
+    "eyebrow": "Direito Criminal",
+    "h1": "Defesa criminal &lt;em&gt;estratégica&lt;/em&gt; em cada fase do processo",
+    "subtitle": "Da abordagem policial à sentença, sua liberdade e sua honra exigem técnica, sigilo e presença constante. Atuamos com firmeza desde a primeira hora.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, João Rocha. Vim pela página de defesa criminal.",
+    "color": "#7C2D3A",
+    "intro": {
+      "h2": "Acusação não é &lt;em&gt;condenação&lt;/em&gt;",
+      "paragraphs": [
+        "Toda pessoa é presumida inocente até o trânsito em julgado de sentença penal condenatória, garantia inscrita no &lt;strong&gt;art. 5º, LVII, da Constituição Federal&lt;/strong&gt;. O papel da defesa técnica é assegurar que essa presunção seja respeitada em cada ato: no flagrante, no inquérito policial, na audiência de custódia e ao longo de toda a instrução criminal.",
+        "Atuamos em crimes contra a vida, o patrimônio, a honra, a Administração Pública, tráfico de drogas, crimes de trânsito e econômicos, entre outros. Acompanhamos o investigado desde a fase policial, requeremos diligências, impugnamos provas ilícitas, pleiteamos relaxamento de prisão ilegal e liberdade provisória, e sustentamos a tese defensiva nas audiências de instrução e julgamento."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Defesa &lt;em&gt;presente&lt;/em&gt; em todas as etapas",
+    "bullets": [
+      {
+        "title": "Prisão em flagrante e custódia",
+        "text": "Análise imediata do auto de prisão em flagrante e atuação na audiência de custódia, realizada em até 24 horas, para requerer o relaxamento de prisão ilegal, a liberdade provisória ou a aplicação de medidas cautelares diversas da prisão."
+      },
+      {
+        "title": "Inquérito policial",
+        "text": "Acompanhamento do investigado em depoimentos, garantia do direito ao silêncio e à não autoincriminação, requerimento de diligências e acesso aos autos já documentados, nos termos da Súmula Vinculante 14 do STF."
+      },
+      {
+        "title": "Prisão preventiva e temporária",
+        "text": "Impugnação de prisões cautelares por ausência de seus requisitos legais (art. 312 e 313 do CPP), pedidos de revogação, relaxamento e substituição por medidas cautelares menos gravosas."
+      },
+      {
+        "title": "Instrução e julgamento",
+        "text": "Sustentação da tese defensiva na audiência de instrução: inquirição de testemunhas, reperguntas, interrogatório do réu, alegações finais e recursos às instâncias superiores quando necessário."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Fui chamado para depor na delegacia. Preciso de advogado?",
+        "a": "Sim. Mesmo na fase de inquérito, o acompanhamento por advogado é essencial para resguardar o direito ao silêncio, evitar a autoincriminação e garantir que o depoimento seja prestado dentro da legalidade. Agende sua consulta antes de comparecer."
+      },
+      {
+        "q": "A prisão em flagrante sempre mantém a pessoa presa?",
+        "a": "Não necessariamente. Na audiência de custódia, o juiz pode relaxar a prisão se ilegal, conceder liberdade provisória com ou sem fiança, aplicar medidas cautelares diversas ou converter o flagrante em preventiva. A atuação técnica imediata é decisiva nesse momento."
+      },
+      {
+        "q": "O atendimento é sigiloso?",
+        "a": "Integralmente. O sigilo profissional é dever do advogado e direito do cliente. Todo o atendimento é confidencial, e oferecemos consultas online para pessoas em qualquer lugar do Brasil."
+      }
+    ]
+  },
+  "habeas-corpus": {
+    "slug": "habeas-corpus",
+    "nav": "habeas-corpus",
+    "related_category": null,
+    "page_title": "Habeas Corpus · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Habeas corpus contra prisão ilegal e constrangimento à liberdade. Impetração urgente, preventiva ou liberatória, com sigilo. Atendimento online em todo o Brasil.",
+    "eyebrow": "Direito Criminal",
+    "h1": "Habeas corpus contra a &lt;em&gt;prisão&lt;/em&gt; ilegal",
+    "subtitle": "O remédio constitucional mais poderoso em defesa da liberdade de locomoção. Quando há constrangimento ilegal, a resposta precisa ser técnica e imediata.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, João Rocha. Vim pela página de habeas corpus.",
+    "color": "#8A3A2A",
+    "intro": {
+      "h2": "Sua &lt;em&gt;liberdade&lt;/em&gt; de ir e vir é cláusula pétrea",
+      "paragraphs": [
+        "O habeas corpus está previsto no &lt;strong&gt;art. 5º, LXVIII, da Constituição Federal&lt;/strong&gt;: conceder-se-á sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder. É a garantia mais antiga e direta de proteção contra a prisão arbitrária.",
+        "A ação pode ser liberatória, quando a pessoa já está presa ilegalmente, ou preventiva (salvo-conduto), quando há ameaça concreta à liberdade. Impetra-se contra prisões sem fundamentação idônea, excesso de prazo, ausência dos requisitos da preventiva, nulidades processuais e constrangimentos diversos, junto ao tribunal competente, inclusive com pedido de liminar urgente."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Impetração &lt;em&gt;técnica&lt;/em&gt; e urgente",
+    "bullets": [
+      {
+        "title": "HC liberatório",
+        "text": "Para quem já está preso ilegalmente: identificamos o constrangimento — falta de fundamentação, excesso de prazo, ausência dos pressupostos da prisão — e requeremos a expedição imediata do alvará de soltura, com pedido de liminar."
+      },
+      {
+        "title": "HC preventivo",
+        "text": "Quando há ameaça real à liberdade de locomoção, buscamos a concessão de salvo-conduto para impedir prisão ou constrangimento ilegal iminente."
+      },
+      {
+        "title": "Liminar de urgência",
+        "text": "Em casos que não admitem espera, formulamos pedido de medida liminar para suspender de imediato a coação até o julgamento do mérito pelo tribunal."
+      },
+      {
+        "title": "Trancamento e nulidades",
+        "text": "Impetração para trancar inquérito ou ação penal manifestamente abusivos, sanar nulidades e combater ilegalidades em decisões que afetem a liberdade de ir e vir."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quem pode impetrar habeas corpus?",
+        "a": "Qualquer pessoa pode impetrar, em favor próprio ou de terceiro, e até o Ministério Público. Não exige capacidade postulatória, mas a elaboração técnica por advogado aumenta significativamente as chances de êxito, especialmente na fundamentação e no pedido de liminar."
+      },
+      {
+        "q": "Em quanto tempo o habeas corpus é julgado?",
+        "a": "O HC tem tramitação prioritária e urgente. Havendo pedido de liminar, o relator pode decidir em poucas horas ou dias. Por isso, quanto antes a defesa for acionada, mais rápida tende a ser a resposta contra a prisão ilegal."
+      },
+      {
+        "q": "Posso pedir habeas corpus antes de ser preso?",
+        "a": "Sim. É o habeas corpus preventivo, cabível quando há ameaça concreta e atual à liberdade de locomoção. Se concedido, o juiz expede salvo-conduto que impede a prisão ou o constrangimento ilegal. Agende sua consulta para avaliar o caso."
+      }
+    ]
+  },
+  "tribunal-do-juri": {
+    "slug": "tribunal-do-juri",
+    "nav": "tribunal-do-juri",
+    "related_category": null,
+    "page_title": "Tribunal do Júri · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Defesa no Tribunal do Júri em crimes dolosos contra a vida. Atuação técnica nas duas fases e sustentação em plenário, com sigilo. Atendimento online em todo o Brasil.",
+    "eyebrow": "Direito Criminal",
+    "h1": "Defesa no Tribunal do &lt;em&gt;Júri&lt;/em&gt;",
+    "subtitle": "Crimes dolosos contra a vida são julgados pelo povo. A defesa em plenário exige preparo técnico, estratégia e oratória diante do Conselho de Sentença.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, João Rocha. Vim pela página de Tribunal do Júri.",
+    "color": "#5A3A4A",
+    "intro": {
+      "h2": "O julgamento pelos &lt;em&gt;seus pares&lt;/em&gt;",
+      "paragraphs": [
+        "O Tribunal do Júri é competente para julgar os crimes dolosos contra a vida — homicídio, infanticídio, aborto e participação em suicídio —, consumados ou tentados, conforme o &lt;strong&gt;art. 5º, XXXVIII, da Constituição Federal&lt;/strong&gt;, que assegura a plenitude de defesa, o sigilo das votações e a soberania dos veredictos.",
+        "O procedimento é bifásico. Na primeira fase (judicium accusationis), o juiz decide se há indícios suficientes para levar o réu a julgamento, podendo pronunciar, impronunciar, absolver sumariamente ou desclassificar a conduta. Pronunciado, o réu vai a plenário (judicium causae), onde sete jurados sorteados compõem o Conselho de Sentença e decidem, por votação sigilosa, sobre a materialidade, a autoria e as teses defensivas."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Estratégia para o &lt;em&gt;plenário&lt;/em&gt;",
+    "bullets": [
+      {
+        "title": "Primeira fase do rito",
+        "text": "Atuação na fase de pronúncia com defesa prévia, produção de provas e alegações, buscando a impronúncia, a absolvição sumária ou a desclassificação para crime fora da competência do júri quando cabível."
+      },
+      {
+        "title": "Preparação do plenário",
+        "text": "Estudo aprofundado dos autos, definição da tese (legítima defesa, negativa de autoria, desclassificação, teses de redução de pena) e preparação de testemunhas e da prova a ser apresentada aos jurados."
+      },
+      {
+        "title": "Sustentação perante os jurados",
+        "text": "Defesa em plenário com debates orais, inquirição de testemunhas, apartes e sustentação clara e persuasiva diante do Conselho de Sentença, com plenitude de defesa."
+      },
+      {
+        "title": "Quesitos e recursos",
+        "text": "Atenção rigorosa à formulação e à votação dos quesitos e interposição de recurso quando a decisão dos jurados for manifestamente contrária à prova dos autos, com pedido de novo julgamento."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quais crimes são julgados pelo Tribunal do Júri?",
+        "a": "Os crimes dolosos contra a vida — homicídio, infanticídio, aborto e participação em suicídio ou automutilação —, consumados ou tentados, além dos crimes conexos a eles. A competência do júri é fixada pela Constituição Federal."
+      },
+      {
+        "q": "O que significa plenitude de defesa no júri?",
+        "a": "É uma garantia mais ampla que a ampla defesa comum: no plenário, a defesa pode utilizar argumentos jurídicos e também extrajurídicos — sociais, emocionais e de equidade — para convencer os jurados, que decidem por íntima convicção e em votação sigilosa."
+      },
+      {
+        "q": "Como funciona a decisão dos jurados?",
+        "a": "Sete jurados leigos são sorteados para o Conselho de Sentença e respondem aos quesitos sobre materialidade, autoria e teses apresentadas, em votação sigilosa. A decisão é soberana, mas pode ser revista em recurso quando contrária à prova dos autos, hipótese em que se determina novo julgamento."
+      }
+    ]
+  }
+}

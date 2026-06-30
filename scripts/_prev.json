@@ -1,0 +1,218 @@
+{
+  "aposentadorias": {
+    "slug": "aposentadorias",
+    "nav": "aposentadorias",
+    "related_category": null,
+    "page_title": "Aposentadorias · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Planejamento e concessão de aposentadorias junto ao INSS após a EC 103/2019. Atendimento online em todo o Brasil. Agende sua consulta.",
+    "eyebrow": "Direito Previdenciário",
+    "h1": "Aposentadoria por &lt;em&gt;Tempo&lt;/em&gt; de Contribuição e Idade.",
+    "subtitle": "Cada regra do INSS tem requisitos próprios. Identificamos o melhor caminho para o seu benefício e cuidamos de todo o processo, do requerimento ao recurso.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, João Rocha. Vim pela página de aposentadorias.",
+    "color": "#2C6E8F",
+    "intro": {
+      "h2": "Entenda as &lt;em&gt;regras&lt;/em&gt; que valem para você.",
+      "paragraphs": [
+        "A Reforma da Previdência (&lt;strong&gt;Emenda Constitucional 103/2019&lt;/strong&gt;) mudou profundamente o sistema. Para quem já contribuía antes de 13/11/2019, existem as chamadas &lt;strong&gt;regras de transição&lt;/strong&gt; (pontos, idade progressiva, pedágio de 50% e pedágio de 100%), que podem ser mais vantajosas do que a regra definitiva. Para quem começou a contribuir depois, vale a regra permanente, com idade mínima e tempo mínimo de contribuição.",
+        "Há também as aposentadorias por idade (urbana e rural), a aposentadoria da pessoa com deficiência (LC 142/2013) e a aposentadoria especial, para quem trabalhou exposto a agentes nocivos. Escolher a regra errada ou requerer no momento inadequado pode reduzir o valor do benefício por toda a vida. Por isso, fazemos o planejamento previdenciário antes de protocolar o pedido."
+      ]
+    },
+    "bullets_eye": "Como ajudamos",
+    "bullets_h2": "Do &lt;em&gt;planejamento&lt;/em&gt; à concessão do benefício.",
+    "bullets": [
+      {
+        "title": "Planejamento previdenciário",
+        "text": "Analisamos seu CNIS (Cadastro Nacional de Informações Sociais), simulamos cada regra de transição e a regra definitiva e indicamos qual gera o melhor valor e a data ideal para requerer."
+      },
+      {
+        "title": "Aposentadoria por idade e por tempo",
+        "text": "Orientamos sobre os requisitos atuais: na regra geral, mulher 62 anos e homem 65 anos (idade), com tempo mínimo de contribuição, além das transições por pontos e por pedágio."
+      },
+      {
+        "title": "Aposentadoria especial e da pessoa com deficiência",
+        "text": "Reunimos PPP, LTCAT e laudos para comprovar tempo especial por exposição a agentes nocivos, e estruturamos o pedido nos termos da LC 142/2013 para a pessoa com deficiência."
+      },
+      {
+        "title": "Reconhecimento de tempo e correção do CNIS",
+        "text": "Averbamos tempo rural, períodos sem registro, contribuições em atraso e vínculos não computados, corrigindo erros do CNIS que diminuem seu tempo e seu valor."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quanto tempo de contribuição eu preciso para me aposentar?",
+        "a": "Depende da regra. Na &lt;strong&gt;regra de transição por pontos&lt;/strong&gt;, soma-se idade e tempo de contribuição, com pontuação que sobe a cada ano. Já a aposentadoria por idade exige idade mínima (62 anos para mulher e 65 para homem na regra geral) e tempo mínimo de contribuição. Fazemos a simulação no seu caso concreto antes de requerer."
+      },
+      {
+        "q": "Vale a pena adiar a aposentadoria para receber um valor maior?",
+        "a": "Em muitos casos, sim. Algumas regras aplicam fator ou percentuais que aumentam conforme o tempo a mais de contribuição. O planejamento previdenciário mostra quanto você ganharia esperando alguns meses, evitando uma renda menor para o resto da vida."
+      },
+      {
+        "q": "O INSS negou meu pedido. Ainda dá para conseguir?",
+        "a": "Sim. É possível apresentar recurso administrativo ou ingressar com ação judicial. Muitos indeferimentos decorrem de falta de documentos ou erro no cômputo do tempo, que podem ser corrigidos. Agende sua consulta para avaliarmos a melhor estratégia."
+      }
+    ]
+  },
+  "pensao-por-morte": {
+    "slug": "pensao-por-morte",
+    "nav": "pensão por morte",
+    "related_category": null,
+    "page_title": "Pensão por Morte · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Pensão por morte do INSS para dependentes: requisitos, prazos e cálculo após a EC 103/2019. Atendimento online em todo o Brasil. Agende sua consulta.",
+    "eyebrow": "Direito Previdenciário",
+    "h1": "Pensão por &lt;em&gt;Morte&lt;/em&gt; para os Dependentes.",
+    "subtitle": "Quando o segurado falece, seus dependentes têm direito a um benefício de proteção. Cuidamos do requerimento e da defesa do valor e do tempo de duração corretos.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, João Rocha. Vim pela página de pensão por morte.",
+    "color": "#4E647F",
+    "intro": {
+      "h2": "Quem tem &lt;em&gt;direito&lt;/em&gt; e por quanto tempo.",
+      "paragraphs": [
+        "A pensão por morte é devida aos &lt;strong&gt;dependentes&lt;/strong&gt; do segurado que falece. A lei organiza os dependentes em classes: a primeira inclui cônjuge, companheiro(a) em união estável e filhos menores de 21 anos, inválidos ou com deficiência. A existência de dependente de uma classe afasta as classes seguintes (pais e irmãos). Para os de primeira classe, a dependência econômica é presumida.",
+        "Após a &lt;strong&gt;EC 103/2019&lt;/strong&gt;, a cota do cônjuge ou companheiro passou a ser, em regra, 50% do valor mais 10% por dependente. O tempo de duração varia conforme a idade do cônjuge na data do óbito e o tempo de casamento ou união, além do número de contribuições do falecido. Há regras específicas para evitar perda de prazo: requerer rapidamente garante o pagamento desde a data do óbito."
+      ]
+    },
+    "bullets_eye": "Como ajudamos",
+    "bullets_h2": "Garantimos o &lt;em&gt;benefício&lt;/em&gt; a quem tem direito.",
+    "bullets": [
+      {
+        "title": "Comprovação de união estável",
+        "text": "Reunimos provas documentais e testemunhais para demonstrar a união estável ou a dependência econômica, ponto que costuma motivar o indeferimento pelo INSS."
+      },
+      {
+        "title": "Cálculo correto da cota",
+        "text": "Conferimos o percentual aplicado (cota base mais cotas por dependente) e o tempo de duração, evitando que você receba menos do que tem direito ou perca o benefício antes da hora."
+      },
+      {
+        "title": "Pensão por morte rural",
+        "text": "Atuamos no reconhecimento da condição de segurado especial (trabalhador rural) do falecido, com início de prova material e oitiva de testemunhas."
+      },
+      {
+        "title": "Recursos e revisão",
+        "text": "Contestamos indeferimentos, cessações indevidas e cálculos equivocados, na via administrativa e judicial, inclusive para incluir dependente preterido."
+      }
+    ],
+    "faq": [
+      {
+        "q": "A partir de quando a pensão por morte é paga?",
+        "a": "Se o dependente requerer em até &lt;strong&gt;90 dias&lt;/strong&gt; do óbito, o benefício é devido desde a data do falecimento (180 dias no caso de filho menor de 16 anos). Após esse prazo, passa a ser pago a partir da data do requerimento. Por isso é importante não demorar para protocolar o pedido."
+      },
+      {
+        "q": "A pensão é vitalícia?",
+        "a": "Depende. Para o cônjuge ou companheiro, a duração varia conforme a idade na data do óbito e o tempo de casamento/união. A vitaliciedade ocorre, em regra, quando o cônjuge tem 45 anos ou mais na data do óbito, observados os demais requisitos. Para filhos, em geral vai até os 21 anos, salvo invalidez ou deficiência."
+      },
+      {
+        "q": "Tenho direito mesmo morando junto sem ter casado no papel?",
+        "a": "Sim. A &lt;strong&gt;união estável&lt;/strong&gt; garante o direito à pensão, desde que comprovada. Documentos como conta conjunta, comprovantes no mesmo endereço, filhos em comum e declarações ajudam. Agende sua consulta para organizarmos as provas adequadas."
+      }
+    ]
+  },
+  "bpc-loas": {
+    "slug": "bpc-loas",
+    "nav": "BPC/LOAS",
+    "related_category": null,
+    "page_title": "BPC/LOAS · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "BPC/LOAS: benefício de um salário mínimo para idosos e pessoas com deficiência de baixa renda. Atendimento online em todo o Brasil. Agende sua consulta.",
+    "eyebrow": "Direito Previdenciário",
+    "h1": "BPC/LOAS para &lt;em&gt;Idosos&lt;/em&gt; e Pessoas com Deficiência.",
+    "subtitle": "O Benefício de Prestação Continuada assegura um salário mínimo mensal a quem está em situação de vulnerabilidade. Mostramos se você tem direito e cuidamos do pedido.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, João Rocha. Vim pela página de BPC/LOAS.",
+    "color": "#356A9A",
+    "intro": {
+      "h2": "Um &lt;em&gt;amparo&lt;/em&gt; para quem mais precisa.",
+      "paragraphs": [
+        "O BPC (Benefício de Prestação Continuada), previsto na &lt;strong&gt;Lei 8.742/1993 (LOAS)&lt;/strong&gt;, é um benefício assistencial de um salário mínimo por mês. Tem direito o idoso com 65 anos ou mais e a pessoa com deficiência de qualquer idade, desde que comprovem a situação de baixa renda. Não é aposentadoria: não exige contribuição ao INSS e, por isso, não gera 13º nem deixa pensão por morte.",
+        "O critério principal é a renda: em regra, a &lt;strong&gt;renda familiar por pessoa (per capita) deve ser de até 1/4 do salário mínimo&lt;/strong&gt;. Esse limite pode ser ampliado em situações específicas, considerando gastos com saúde, medicamentos e deficiência. É indispensável estar inscrito no &lt;strong&gt;CadÚnico&lt;/strong&gt; atualizado. Para a pessoa com deficiência, exige-se impedimento de longo prazo (mínimo de 2 anos) que dificulte a participação plena na sociedade, avaliado em perícia médica e social."
+      ]
+    },
+    "bullets_eye": "Como ajudamos",
+    "bullets_h2": "Demonstramos que você &lt;em&gt;cumpre&lt;/em&gt; os requisitos.",
+    "bullets": [
+      {
+        "title": "Análise do critério de renda",
+        "text": "Calculamos a renda per capita da família e identificamos despesas que podem ser deduzidas, ampliando a chance de enquadramento mesmo quando a renda parece um pouco acima do limite."
+      },
+      {
+        "title": "Preparação para a perícia",
+        "text": "Organizamos laudos, exames e relatórios médicos para comprovar o impedimento de longo prazo na avaliação médica e social do INSS, etapa decisiva no benefício à pessoa com deficiência."
+      },
+      {
+        "title": "CadÚnico e documentação",
+        "text": "Orientamos sobre a inscrição e a atualização do Cadastro Único e reunimos a documentação da composição familiar, evitando indeferimentos por falhas formais."
+      },
+      {
+        "title": "Recurso contra negativa",
+        "text": "Muitos pedidos são negados por avaliação de renda ou perícia. Recorremos na via administrativa e, quando necessário, judicial, para garantir o benefício."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quem nunca contribuiu para o INSS pode receber o BPC?",
+        "a": "Sim. O BPC é um &lt;strong&gt;benefício assistencial&lt;/strong&gt;, não previdenciário. Não é necessário ter contribuído. Os requisitos são ser idoso (65 anos ou mais) ou pessoa com deficiência e comprovar a situação de baixa renda da família."
+      },
+      {
+        "q": "Qual é o limite de renda para ter direito?",
+        "a": "A regra geral é renda familiar por pessoa de até &lt;strong&gt;1/4 do salário mínimo&lt;/strong&gt;. Esse limite pode ser flexibilizado diante de gastos com saúde, medicamentos e a própria deficiência. Avaliamos a renda real da família, considerando essas despesas."
+      },
+      {
+        "q": "O BPC dá 13º salário ou deixa pensão por morte?",
+        "a": "Não. Por ser assistencial, o BPC não paga 13º salário e não gera pensão por morte aos dependentes. Ele também pode ser revisado periodicamente pelo INSS para verificar se os requisitos continuam atendidos."
+      }
+    ]
+  },
+  "revisao-de-beneficios": {
+    "slug": "revisao-de-beneficios",
+    "nav": "revisão de benefícios",
+    "related_category": null,
+    "page_title": "Revisão de Benefícios · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Revisão de aposentadorias e benefícios do INSS pagos com valor menor que o devido. Atendimento online em todo o Brasil. Agende sua consulta.",
+    "eyebrow": "Direito Previdenciário",
+    "h1": "Revisão de &lt;em&gt;Benefícios&lt;/em&gt; do INSS.",
+    "subtitle": "Aposentadorias e pensões muitas vezes são concedidas com valor menor do que o correto. Verificamos o cálculo e buscamos a diferença, inclusive os valores atrasados.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, João Rocha. Vim pela página de revisão de benefícios.",
+    "color": "#2C7E8F",
+    "intro": {
+      "h2": "Seu benefício pode estar &lt;em&gt;incorreto&lt;/em&gt;.",
+      "paragraphs": [
+        "Erros no cálculo do INSS são frequentes: salários de contribuição lançados a menor, períodos especiais não reconhecidos, vínculos esquecidos no CNIS e uso de regra menos vantajosa. Quando isso acontece, o segurado recebe por anos um valor inferior ao devido. A revisão corrige a renda mensal e pode gerar o pagamento das &lt;strong&gt;diferenças atrasadas&lt;/strong&gt;, respeitada a prescrição das parcelas dos últimos cinco anos.",
+        "Existe, porém, um &lt;strong&gt;prazo decadencial de 10 anos&lt;/strong&gt; para revisar o ato de concessão, contado, em regra, a partir do primeiro pagamento do benefício. Por isso, quanto antes a análise for feita, melhor. Avaliamos a carta de concessão e a memória de cálculo para identificar qual revisão se aplica ao seu caso — sempre verificando se ela é, de fato, vantajosa antes de qualquer pedido."
+      ]
+    },
+    "bullets_eye": "Como ajudamos",
+    "bullets_h2": "Conferimos cada &lt;em&gt;detalhe&lt;/em&gt; do seu cálculo.",
+    "bullets": [
+      {
+        "title": "Auditoria da carta de concessão",
+        "text": "Analisamos a memória de cálculo, os salários de contribuição e a regra aplicada para descobrir se o INSS deixou de incluir períodos ou usou índices errados."
+      },
+      {
+        "title": "Reconhecimento de tempo especial",
+        "text": "Buscamos a conversão de tempo trabalhado com exposição a agentes nocivos, o que pode elevar o tempo de contribuição e, consequentemente, o valor do benefício."
+      },
+      {
+        "title": "Inclusão de vínculos e contribuições",
+        "text": "Corrigimos o CNIS para somar salários, vínculos e contribuições não computados, refletindo isso no recálculo da renda mensal inicial."
+      },
+      {
+        "title": "Cobrança dos atrasados",
+        "text": "Quando a revisão é cabível, requeremos as diferenças vencidas dos últimos cinco anos, com correção monetária e juros, na via administrativa ou judicial."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Existe prazo para pedir a revisão?",
+        "a": "Sim. Em regra, há &lt;strong&gt;decadência de 10 anos&lt;/strong&gt; para revisar o ato de concessão, contados do primeiro pagamento ou da negativa administrativa. Além disso, só é possível cobrar as diferenças dos últimos cinco anos (prescrição). Por isso, o quanto antes for feita a análise, mais valores podem ser recuperados."
+      },
+      {
+        "q": "Toda revisão aumenta o valor do benefício?",
+        "a": "Não. Algumas teses revisionais só valem a pena em situações específicas. Antes de ingressar com qualquer pedido, fazemos o recálculo para confirmar que a revisão é realmente vantajosa, evitando processos sem benefício real ao cliente."
+      },
+      {
+        "q": "Recebo benefício há anos. Ainda dá para revisar?",
+        "a": "Pode ser possível, desde que não tenha decorrido o prazo de decadência de 10 anos e exista erro a corrigir. Traga sua carta de concessão e o extrato do CNIS: com esses documentos conseguimos avaliar. Agende sua consulta."
+      }
+    ]
+  }
+}

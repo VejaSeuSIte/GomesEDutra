@@ -1,0 +1,10 @@
+João Rocha Advocacia — site reconstruído (Criminal, Cível e Previdenciário)
+
+Transformação completa do antigo modelo Gomes & Dutra:
+- Marca, logo (recorte da logo do cliente) e foto do João Rocha
+- 10 landings novas em 3 áreas: Defesa Criminal, Habeas Corpus, Tribunal do Júri,
+  Aposentadorias, Pensão por Morte, BPC/LOAS, Revisão de Benefícios,
+  Indenizações, Contratos e Cobranças, Direito de Família
+- Home: hero, escritório, áreas, Quem Somos (retrato único), FAQ e contato
+- basePath /JoaoRochaAdvogado/, JSON-LD, sitemap e OG atualizados
+- Dados de contato (WhatsApp, OAB, cidade, e-mail) como placeholders editáveis

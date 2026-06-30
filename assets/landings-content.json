@@ -1,342 +1,658 @@
 {
-  "regularizacao-imoveis": {
-    "slug": "regularizacao-imoveis",
-    "nav": "regularizacao-imoveis",
+  "aposentadorias": {
+    "slug": "aposentadorias",
+    "nav": "aposentadorias",
     "related_category": null,
-    "schema_type": "LegalService",
-    "page_title": "Regularização de Imóveis · Gomes & Dutra Advocacia · Manhuaçu/MG",
-    "page_description": "Regularização de imóveis rurais e urbanos em Manhuaçu/MG: georreferenciamento, retificação de área e averbação, na via judicial e extrajudicial, até a matrícula.",
-    "eyebrow": "Imobiliário",
-    "h1": "Regularização de <em>Imóveis</em>.",
-    "subtitle": "Imóvel sem documento, com área errada na matrícula ou construção não averbada? Levamos seu bem rural ou urbano à regularização completa no registro.",
+    "page_title": "Aposentadorias · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Planejamento e concessão de aposentadorias junto ao INSS após a EC 103/2019. Atendimento online em todo o Brasil. Agende sua consulta.",
+    "eyebrow": "Direito Previdenciário",
+    "h1": "Aposentadoria por <em>Tempo</em> de Contribuição e Idade.",
+    "subtitle": "Cada regra do INSS tem requisitos próprios. Identificamos o melhor caminho para o seu benefício e cuidamos de todo o processo, do requerimento ao recurso.",
     "cta_text": "Falar com o escritório no WhatsApp",
-    "wa_text": "Olá, Gomes & Dutra. Vim pela página de regularização de imóveis.",
-    "color": "#B8862E",
-    "intro": {
-      "h2": "Do <em>papel</em> à matrícula, seu imóvel em ordem.",
-      "paragraphs": [
-        "Regularizar um imóvel é fazer com que a realidade do bem coincida com o que está registrado na <strong>matrícula do Cartório de Registro de Imóveis (RGI)</strong>. Em propriedades <strong>rurais</strong>, isso costuma envolver o <strong>georreferenciamento</strong> exigido pela Lei 10.267/2001, a certificação junto ao INCRA, a emissão e atualização de <strong>CCIR, CAR e ITR</strong> e a <strong>retificação de área</strong> quando a metragem registrada não corresponde à real. Já nos imóveis <strong>urbanos</strong>, tratamos de regularização de loteamentos e desmembramentos, <strong>averbação de construções</strong> (habite-se) e da <strong>REURB</strong> (Lei 13.465/2017) para núcleos consolidados.",
-        "Sem essa regularização, o imóvel fica travado e não pode ser <strong>vendido com segurança, financiado, dado em garantia ou partilhado em inventário</strong> — e o proprietário ainda corre risco em conflitos de área e de posse. No escritório, fazemos o diagnóstico documental completo (matrícula, certidões, plantas e memoriais) e conduzimos o caminho mais rápido e econômico, seja pela via <strong>extrajudicial</strong> (diretamente no cartório, por retificação administrativa ou ata notarial) ou pela via <strong>judicial</strong> quando há litígio ou exigência legal. O objetivo é entregar a você uma <em>matrícula limpa, atual e definitiva</em>."
-      ]
-    },
-    "bullets_eye": "Como atuamos",
-    "bullets_h2": "Cada etapa até a <em>matrícula</em> definitiva.",
-    "bullets": [
-      {"title": "Diagnóstico documental", "text": "Levantamos matrícula atualizada, certidões, plantas, ITR/IPTU e a cadeia dominial para identificar exatamente o que falta regularizar no seu imóvel rural ou urbano."},
-      {"title": "Retificação de área e registro", "text": "Corrigimos divergências de metragem, confrontações e descrição no cartório, pela retificação administrativa (art. 213 da Lei 6.015/73) ou judicial quando necessário."},
-      {"title": "Georreferenciamento e INCRA", "text": "Articulamos com o profissional técnico o georreferenciamento e a certificação no SIGEF/INCRA, além de CCIR e CAR, para o imóvel rural ficar apto ao registro."},
-      {"title": "Averbação e regularização urbana", "text": "Averbamos construções, conduzimos desmembramentos e REURB e regularizamos a situação do imóvel junto à prefeitura e ao Registro de Imóveis."}
-    ],
-    "faq": [
-      {"q": "Quanto tempo leva para regularizar um imóvel?", "a": "Depende do que falta e da via adotada. Uma <strong>retificação extrajudicial</strong> de área no próprio cartório costuma ser mais rápida do que a via judicial; já casos com litígio, falta de documentos ou georreferenciamento pendente exigem mais etapas. No diagnóstico inicial estimamos prazo e caminho para o seu caso."},
-      {"q": "Comprei um imóvel rural só com contrato de gaveta. Dá para regularizar?", "a": "Em regra, sim. Conforme a situação, o caminho pode ser a <strong>escritura e o registro</strong> da cadeia de transmissões, a <strong>retificação</strong> da matrícula ou a <strong>usucapião</strong> quando não há título registrável. Analisamos a documentação e indicamos a solução mais segura para levar o bem à matrícula em seu nome."},
-      {"q": "Preciso regularizar mesmo já morando ou produzindo no imóvel há anos?", "a": "Sim. Posse não é o mesmo que <strong>propriedade registrada</strong>. Sem a matrícula em ordem você não vende com segurança, não financia e não dá o bem em garantia, e ainda fica exposto a conflitos. A regularização transforma a posse de fato em <strong>direito de propriedade oponível a todos</strong>."}
-    ]
-  },
-  "usucapiao": {
-    "slug": "usucapiao",
-    "nav": "usucapiao",
-    "related_category": null,
-    "schema_type": "LegalService",
-    "page_title": "Usucapião · Gomes & Dutra Advocacia · Manhuaçu/MG",
-    "page_description": "Usucapião judicial e extrajudicial em Manhuaçu/MG: ata notarial em cartório e ações de usucapião para transformar sua posse antiga em propriedade registrada.",
-    "eyebrow": "Imobiliário",
-    "h1": "Usucapião <em>Judicial e Extrajudicial</em>.",
-    "subtitle": "Quem ocupa um imóvel como dono por tempo suficiente pode se tornar proprietário de direito. Conduzimos a usucapião no cartório e na Justiça.",
-    "cta_text": "Falar com o escritório no WhatsApp",
-    "wa_text": "Olá, Gomes & Dutra. Vim pela página de usucapião.",
-    "color": "#2E7D5F",
-    "intro": {
-      "h2": "Sua <em>posse</em> antiga vira propriedade registrada.",
-      "paragraphs": [
-        "A usucapião é a forma de adquirir a propriedade pela <strong>posse prolongada</strong>, mansa, pacífica, contínua e com ânimo de dono. A lei prevê várias modalidades, com prazos diferentes: a <strong>extraordinária</strong> (15 anos, ou 10 com moradia ou produção no imóvel), a <strong>ordinária</strong> (10 anos com justo título e boa-fé), a <strong>especial urbana</strong> (5 anos, até 250 m², para moradia), a <strong>especial rural</strong> (5 anos, até 50 hectares, com trabalho e moradia) e a <strong>familiar</strong> (2 anos, quando o ex-cônjuge ou companheiro abandona o lar).",
-        "Desde 2015, a usucapião também pode ser feita pela <strong>via extrajudicial</strong>, diretamente no Cartório de Registro de Imóveis, a partir de uma <strong>ata notarial</strong> lavrada em Cartório de Notas que atesta o tempo e as características da posse (art. 216-A da Lei de Registros Públicos). Esse caminho costuma ser mais rápido quando há consenso entre os confrontantes. A sócia <strong>Paloma Dutra</strong> atuou por dez anos como Oficial Substituta em Cartório de Notas, onde <strong>lavrou atas notariais de usucapião</strong> — experiência que torna o escritório especialmente preparado para conduzir tanto a via cartorária quanto a <em>judicial</em>."
-      ]
-    },
-    "bullets_eye": "Como atuamos",
-    "bullets_h2": "Da <em>posse</em> à escritura, no melhor caminho.",
-    "bullets": [
-      {"title": "Definição da modalidade", "text": "Analisamos tempo de posse, tamanho e uso do imóvel e a existência de título para enquadrar seu caso na modalidade de usucapião mais vantajosa e segura."},
-      {"title": "Prova da posse", "text": "Reunimos contas, fotos, declarações de confrontantes, comprovantes de pagamento de tributos e testemunhas que demonstrem a posse mansa, pacífica e com ânimo de dono."},
-      {"title": "Usucapião extrajudicial", "text": "Quando há consenso, conduzimos a ata notarial e o pedido diretamente no Registro de Imóveis — caminho normalmente mais rápido do que a ação judicial."},
-      {"title": "Ação de usucapião", "text": "Havendo litígio, confrontante incerto ou exigência legal, ajuizamos a ação de usucapião com a documentação organizada para obter a sentença e o registro."}
-    ],
-    "faq": [
-      {"q": "Qual a diferença entre usucapião judicial e extrajudicial?", "a": "A <strong>extrajudicial</strong> tramita no Cartório de Registro de Imóveis, a partir de uma <strong>ata notarial</strong> e da concordância dos confrontantes; costuma ser mais rápida. A <strong>judicial</strong> corre na Justiça e é necessária quando há discordância, confrontante desconhecido ou outro impasse que o cartório não possa resolver."},
-      {"q": "Há quanto tempo preciso estar no imóvel para usucapir?", "a": "Varia conforme a modalidade: a usucapião <strong>familiar</strong> exige 2 anos; a <strong>especial urbana e rural</strong>, 5 anos; a <strong>ordinária</strong>, 10 anos; e a <strong>extraordinária</strong>, 15 anos (ou 10 com moradia ou produção). Avaliamos sua situação para identificar o prazo e os requisitos aplicáveis."},
-      {"q": "Posso usucapir um imóvel financiado ou em nome de outra pessoa?", "a": "Imóveis <strong>públicos não podem</strong> ser usucapidos. Já um imóvel particular registrado em nome de terceiro pode, desde que presentes a posse com ânimo de dono e o prazo legal. Bens com financiamento ou garantia exigem análise específica, que fazemos antes de iniciar."}
-    ]
-  },
-  "direito-imobiliario": {
-    "slug": "direito-imobiliario",
-    "nav": "direito-imobiliario",
-    "related_category": null,
-    "schema_type": "LegalService",
-    "page_title": "Direito Imobiliário · Gomes & Dutra Advocacia · Manhuaçu/MG",
-    "page_description": "Direito imobiliário em Manhuaçu/MG: contratos, análise de matrícula, distratos, locação e conflitos de posse e propriedade, na via judicial e extrajudicial.",
-    "eyebrow": "Imobiliário",
-    "h1": "Direito <em>Imobiliário</em>.",
-    "subtitle": "Comprar, vender, alugar ou disputar um imóvel exige segurança jurídica. Cuidamos de contratos, documentos e conflitos para proteger o seu patrimônio.",
-    "cta_text": "Falar com o escritório no WhatsApp",
-    "wa_text": "Olá, Gomes & Dutra. Vim pela página de direito imobiliário.",
+    "wa_text": "Olá, João Rocha. Vim pela página de aposentadorias.",
     "color": "#2C6E8F",
     "intro": {
-      "h2": "Segurança em cada <em>negócio</em> com imóveis.",
+      "h2": "Entenda as <em>regras</em> que valem para você.",
       "paragraphs": [
-        "O direito imobiliário cuida de tudo que envolve a <strong>posse e a propriedade</strong> de imóveis: contratos de compra e venda, permuta, financiamento e locação, distratos, condomínio, incorporação e os conflitos sobre quem é o legítimo possuidor ou proprietário. Antes de qualquer negócio, fazemos a <strong>due diligence</strong> — análise da matrícula atualizada, das certidões do imóvel e do vendedor — para identificar penhoras, hipotecas, dívidas, inventários e outros riscos que poderiam contaminar a transação.",
-        "Quando o conflito já existe, atuamos nas <strong>ações possessórias</strong> (reintegração e manutenção de posse, interdito proibitório), na ação reivindicatória, na revisão e rescisão de contratos, na cobrança de aluguéis e no despejo. Conduzimos o caso pela via <strong>extrajudicial</strong> sempre que a negociação for possível e mais vantajosa, e pela via <strong>judicial</strong> quando é preciso fazer valer o seu direito. O objetivo é o mesmo: <em>proteger o seu patrimônio e dar segurança jurídica a cada passo</em>."
+        "A Reforma da Previdência (<strong>Emenda Constitucional 103/2019</strong>) mudou profundamente o sistema. Para quem já contribuía antes de 13/11/2019, existem as chamadas <strong>regras de transição</strong> (pontos, idade progressiva, pedágio de 50% e pedágio de 100%), que podem ser mais vantajosas do que a regra definitiva. Para quem começou a contribuir depois, vale a regra permanente, com idade mínima e tempo mínimo de contribuição.",
+        "Há também as aposentadorias por idade (urbana e rural), a aposentadoria da pessoa com deficiência (LC 142/2013) e a aposentadoria especial, para quem trabalhou exposto a agentes nocivos. Escolher a regra errada ou requerer no momento inadequado pode reduzir o valor do benefício por toda a vida. Por isso, fazemos o planejamento previdenciário antes de protocolar o pedido."
       ]
     },
-    "bullets_eye": "Como atuamos",
-    "bullets_h2": "Seu patrimônio <em>protegido</em> do contrato ao conflito.",
+    "bullets_eye": "Como ajudamos",
+    "bullets_h2": "Do <em>planejamento</em> à concessão do benefício.",
     "bullets": [
-      {"title": "Due diligence do imóvel", "text": "Analisamos matrícula, certidões e a situação do vendedor para revelar penhoras, dívidas e pendências antes de você assinar qualquer negócio."},
-      {"title": "Contratos e distratos", "text": "Elaboramos e revisamos contratos de compra e venda, permuta, locação e financiamento, com cláusulas que protegem você — e cuidamos de distratos quando o negócio precisa ser desfeito."},
-      {"title": "Locação e despejo", "text": "Atuamos em contratos de aluguel, cobrança de encargos, revisão e ações de despejo, conforme a Lei do Inquilinato (Lei 8.245/91)."},
-      {"title": "Conflitos de posse e propriedade", "text": "Conduzimos ações possessórias, reivindicatórias e de divisão, defendendo quem tem direito à posse ou à propriedade do imóvel."}
+      {
+        "title": "Planejamento previdenciário",
+        "text": "Analisamos seu CNIS (Cadastro Nacional de Informações Sociais), simulamos cada regra de transição e a regra definitiva e indicamos qual gera o melhor valor e a data ideal para requerer."
+      },
+      {
+        "title": "Aposentadoria por idade e por tempo",
+        "text": "Orientamos sobre os requisitos atuais: na regra geral, mulher 62 anos e homem 65 anos (idade), com tempo mínimo de contribuição, além das transições por pontos e por pedágio."
+      },
+      {
+        "title": "Aposentadoria especial e da pessoa com deficiência",
+        "text": "Reunimos PPP, LTCAT e laudos para comprovar tempo especial por exposição a agentes nocivos, e estruturamos o pedido nos termos da LC 142/2013 para a pessoa com deficiência."
+      },
+      {
+        "title": "Reconhecimento de tempo e correção do CNIS",
+        "text": "Averbamos tempo rural, períodos sem registro, contribuições em atraso e vínculos não computados, corrigindo erros do CNIS que diminuem seu tempo e seu valor."
+      }
     ],
     "faq": [
-      {"q": "Por que fazer a análise do imóvel antes de comprar?", "a": "Porque a <strong>matrícula e as certidões</strong> revelam riscos invisíveis no anúncio: penhoras, hipotecas, ações contra o vendedor, dívidas de condomínio e tributos. A due diligence evita que você compre um problema e perca dinheiro com um negócio que poderia ser anulado."},
-      {"q": "O comprador parou de pagar o imóvel que vendi. O que posso fazer?", "a": "É possível notificar o comprador e, conforme o contrato, buscar a <strong>rescisão com reintegração de posse</strong> ou a cobrança das parcelas. Analisamos as cláusulas e a melhor estratégia — extrajudicial ou judicial — para reaver o imóvel ou receber o que é devido."},
-      {"q": "Meu vizinho avançou sobre o meu terreno. Como resolver?", "a": "Conforme o caso, cabe ação possessória (reintegração ou manutenção de posse), demarcatória ou retificação de área. Reunimos a <strong>prova da posse e das divisas</strong> — matrícula, planta e levantamento — e buscamos a solução, primeiro pela conciliação e, se preciso, na Justiça."}
+      {
+        "q": "Quanto tempo de contribuição eu preciso para me aposentar?",
+        "a": "Depende da regra. Na <strong>regra de transição por pontos</strong>, soma-se idade e tempo de contribuição, com pontuação que sobe a cada ano. Já a aposentadoria por idade exige idade mínima (62 anos para mulher e 65 para homem na regra geral) e tempo mínimo de contribuição. Fazemos a simulação no seu caso concreto antes de requerer."
+      },
+      {
+        "q": "Vale a pena adiar a aposentadoria para receber um valor maior?",
+        "a": "Em muitos casos, sim. Algumas regras aplicam fator ou percentuais que aumentam conforme o tempo a mais de contribuição. O planejamento previdenciário mostra quanto você ganharia esperando alguns meses, evitando uma renda menor para o resto da vida."
+      },
+      {
+        "q": "O INSS negou meu pedido. Ainda dá para conseguir?",
+        "a": "Sim. É possível apresentar recurso administrativo ou ingressar com ação judicial. Muitos indeferimentos decorrem de falta de documentos ou erro no cômputo do tempo, que podem ser corrigidos. Agende sua consulta para avaliarmos a melhor estratégia."
+      }
     ]
   },
-  "compra-venda": {
-    "slug": "compra-venda",
-    "nav": "compra-venda",
+  "pensao-por-morte": {
+    "slug": "pensao-por-morte",
+    "nav": "pensão por morte",
     "related_category": null,
-    "schema_type": "LegalService",
-    "page_title": "Compra e Venda de Imóveis · Gomes & Dutra Advocacia · Manhuaçu/MG",
-    "page_description": "Assessoria em compra e venda de imóveis em Manhuaçu/MG: contrato, escritura, ITBI, certidões e registro, com segurança jurídica na via extrajudicial e judicial.",
-    "eyebrow": "Imobiliário",
-    "h1": "Compra e Venda de <em>Imóveis</em>.",
-    "subtitle": "Comprar ou vender um imóvel é uma das decisões mais importantes da vida. Garantimos que a negociação seja segura, do contrato ao registro na matrícula.",
+    "page_title": "Pensão por Morte · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Pensão por morte do INSS para dependentes: requisitos, prazos e cálculo após a EC 103/2019. Atendimento online em todo o Brasil. Agende sua consulta.",
+    "eyebrow": "Direito Previdenciário",
+    "h1": "Pensão por <em>Morte</em> para os Dependentes.",
+    "subtitle": "Quando o segurado falece, seus dependentes têm direito a um benefício de proteção. Cuidamos do requerimento e da defesa do valor e do tempo de duração corretos.",
     "cta_text": "Falar com o escritório no WhatsApp",
-    "wa_text": "Olá, Gomes & Dutra. Vim pela página de compra e venda de imóveis.",
-    "color": "#7C4A55",
-    "intro": {
-      "h2": "Sua <em>negociação</em> segura, do sinal ao registro.",
-      "paragraphs": [
-        "Numa compra e venda de imóvel, os problemas costumam aparecer depois — quando já houve pagamento. Por isso, antes de assinar, verificamos a <strong>matrícula atualizada e as certidões</strong> do imóvel e do vendedor: existência de <strong>ônus, hipotecas, penhoras, dívidas de IPTU e de condomínio, ações judiciais</strong> e a regularidade da cadeia de propriedade. Elaboramos o <strong>contrato de compra e venda</strong> (ou a promessa) com cláusulas de preço, prazos, garantias e penalidades que protegem a parte que representamos.",
-        "Em seguida, cuidamos do caminho até a <strong>transferência definitiva</strong>: orientação sobre o <strong>ITBI</strong>, a lavratura da <strong>escritura pública</strong> no Cartório de Notas (ou o uso do contrato de financiamento como título) e o <strong>registro na matrícula</strong> do Cartório de Registro de Imóveis — porque, no Brasil, <em>só é dono quem registra</em>. A experiência cartorária da sócia <strong>Paloma Dutra</strong>, que por dez anos lavrou escrituras de compra e venda como Oficial Substituta, agrega segurança a cada etapa do negócio."
-      ]
-    },
-    "bullets_eye": "Como atuamos",
-    "bullets_h2": "Cada cautela para uma compra <em>sem surpresas</em>.",
-    "bullets": [
-      {"title": "Verificação de ônus e dívidas", "text": "Conferimos matrícula e certidões do imóvel e do vendedor para revelar hipotecas, penhoras, ações e débitos antes de qualquer pagamento."},
-      {"title": "Contrato sob medida", "text": "Elaboramos a promessa ou o contrato de compra e venda com cláusulas de preço, prazos, garantias e multas que protegem você no negócio."},
-      {"title": "ITBI e escritura", "text": "Orientamos o recolhimento do ITBI e acompanhamos a lavratura da escritura pública, garantindo que o documento reflita fielmente o combinado."},
-      {"title": "Registro na matrícula", "text": "Cuidamos do registro da transferência no Cartório de Registro de Imóveis, que é o ato que efetivamente torna você o proprietário."}
-    ],
-    "faq": [
-      {"q": "Assinei o contrato de compra. Já sou o dono do imóvel?", "a": "Ainda não. O contrato gera direitos e obrigações, mas a propriedade só se transfere com o <strong>registro da escritura na matrícula</strong> do Cartório de Registro de Imóveis. Enquanto não registra, você não é o proprietário de direito — por isso cuidamos do negócio até o registro."},
-      {"q": "Quais impostos e custos existem na compra de um imóvel?", "a": "O principal é o <strong>ITBI</strong> (imposto de transmissão, recolhido ao município), além dos custos de <strong>escritura no Cartório de Notas e de registro no RGI</strong>. Os valores variam conforme o município e o preço do imóvel; orientamos cada um deles antes da assinatura."},
-      {"q": "Como saber se o imóvel não tem dívidas ou está penhorado?", "a": "Pela análise da <strong>matrícula atualizada e das certidões</strong> do imóvel e do vendedor (negativas de débitos, certidões cíveis e trabalhistas). Esses documentos revelam hipotecas, penhoras e ações que podem comprometer a compra. Fazemos essa verificação completa antes de você fechar o negócio."}
-    ]
-  },
-  "escrituras-registro": {
-    "slug": "escrituras-registro",
-    "nav": "escrituras-registro",
-    "related_category": null,
-    "schema_type": "LegalService",
-    "page_title": "Escrituras e Registro de Imóveis · Gomes & Dutra Advocacia · Manhuaçu/MG",
-    "page_description": "Escrituras públicas e registro de imóveis em Manhuaçu/MG: lavratura, procurações, retificações e acompanhamento da escritura até a matrícula no RGI.",
-    "eyebrow": "Imobiliário",
-    "h1": "Escrituras e <em>Registro</em>.",
-    "subtitle": "A escritura formaliza o negócio; o registro torna você dono. Conduzimos o caminho completo, do tabelionato ao Cartório de Registro de Imóveis.",
-    "cta_text": "Falar com o escritório no WhatsApp",
-    "wa_text": "Olá, Gomes & Dutra. Vim pela página de escrituras e registro de imóveis.",
+    "wa_text": "Olá, João Rocha. Vim pela página de pensão por morte.",
     "color": "#4E647F",
     "intro": {
-      "h2": "Da <em>escritura</em> ao registro na matrícula.",
+      "h2": "Quem tem <em>direito</em> e por quanto tempo.",
       "paragraphs": [
-        "Muita gente confunde escritura com registro, e a diferença é decisiva. A <strong>escritura pública</strong> é o documento lavrado no <strong>Cartório de Notas (tabelionato)</strong> que formaliza a vontade das partes — compra e venda, doação, permuta, inventário, divórcio. Já o <strong>registro</strong> é o ato feito no <strong>Cartório de Registro de Imóveis (RGI)</strong> que lança o negócio na matrícula do bem e, só então, transfere a propriedade. No Brasil, <strong>quem não registra não é dono</strong>: a escritura na gaveta não basta.",
-        "Cuidamos de todo esse percurso: a redação e a conferência da <strong>minuta da escritura</strong>, a reunião das certidões e dos documentos exigidos pelo tabelião, a elaboração de <strong>procurações</strong>, as <strong>retificações</strong> de escrituras e matrículas com erros, e o acompanhamento até o registro final. A sócia <strong>Paloma Dutra</strong> atuou por dez anos como Oficial Substituta em Cartório de Notas, onde <strong>lavrou escrituras de compra e venda, doação, inventário e divórcio</strong> — vivência que dá ao escritório um domínio raro sobre a exigência de cada documento e a melhor forma de <em>evitar exigências e devoluções no cartório</em>."
+        "A pensão por morte é devida aos <strong>dependentes</strong> do segurado que falece. A lei organiza os dependentes em classes: a primeira inclui cônjuge, companheiro(a) em união estável e filhos menores de 21 anos, inválidos ou com deficiência. A existência de dependente de uma classe afasta as classes seguintes (pais e irmãos). Para os de primeira classe, a dependência econômica é presumida.",
+        "Após a <strong>EC 103/2019</strong>, a cota do cônjuge ou companheiro passou a ser, em regra, 50% do valor mais 10% por dependente. O tempo de duração varia conforme a idade do cônjuge na data do óbito e o tempo de casamento ou união, além do número de contribuições do falecido. Há regras específicas para evitar perda de prazo: requerer rapidamente garante o pagamento desde a data do óbito."
       ]
     },
-    "bullets_eye": "Como atuamos",
-    "bullets_h2": "Cada documento <em>correto</em> até o registro.",
+    "bullets_eye": "Como ajudamos",
+    "bullets_h2": "Garantimos o <em>benefício</em> a quem tem direito.",
     "bullets": [
-      {"title": "Preparação da escritura", "text": "Redigimos e conferimos a minuta da escritura e reunimos as certidões exigidas pelo tabelionato, evitando exigências e atrasos na lavratura."},
-      {"title": "Procurações e representações", "text": "Elaboramos procurações públicas e orientamos a representação das partes quando alguém não pode comparecer pessoalmente ao ato."},
-      {"title": "Retificação de escrituras e matrículas", "text": "Corrigimos erros de nome, qualificação, área e descrição em escrituras e na matrícula, para que os documentos fiquem coerentes entre si."},
-      {"title": "Acompanhamento do registro", "text": "Levamos a escritura ao Cartório de Registro de Imóveis e acompanhamos até o registro na matrícula, que é o ato que efetiva a propriedade."}
+      {
+        "title": "Comprovação de união estável",
+        "text": "Reunimos provas documentais e testemunhais para demonstrar a união estável ou a dependência econômica, ponto que costuma motivar o indeferimento pelo INSS."
+      },
+      {
+        "title": "Cálculo correto da cota",
+        "text": "Conferimos o percentual aplicado (cota base mais cotas por dependente) e o tempo de duração, evitando que você receba menos do que tem direito ou perca o benefício antes da hora."
+      },
+      {
+        "title": "Pensão por morte rural",
+        "text": "Atuamos no reconhecimento da condição de segurado especial (trabalhador rural) do falecido, com início de prova material e oitiva de testemunhas."
+      },
+      {
+        "title": "Recursos e revisão",
+        "text": "Contestamos indeferimentos, cessações indevidas e cálculos equivocados, na via administrativa e judicial, inclusive para incluir dependente preterido."
+      }
     ],
     "faq": [
-      {"q": "Qual a diferença entre escritura e registro?", "a": "A <strong>escritura</strong> é lavrada no Cartório de Notas e formaliza o negócio; o <strong>registro</strong> é feito no Cartório de Registro de Imóveis e é o que efetivamente transfere a propriedade, lançando o ato na matrícula. Ter a escritura sem registrar significa não ser, ainda, o dono de direito."},
-      {"q": "Todo negócio com imóvel precisa de escritura pública?", "a": "Em regra, sim, para imóveis acima de <strong>30 salários mínimos</strong> (art. 108 do Código Civil). Há exceções, como contratos de financiamento habitacional, que valem como título por força de lei. Avaliamos o seu caso e indicamos se o caminho é a escritura pública ou o instrumento particular."},
-      {"q": "Há um erro na minha escritura ou na matrícula. Dá para corrigir?", "a": "Sim. Erros de nome, estado civil, qualificação, área ou descrição podem ser corrigidos por <strong>retificação</strong>, em regra no próprio cartório (via extrajudicial) e, quando há divergência mais séria, pela via judicial. Analisamos o documento e conduzimos a correção pelo caminho adequado."}
+      {
+        "q": "A partir de quando a pensão por morte é paga?",
+        "a": "Se o dependente requerer em até <strong>90 dias</strong> do óbito, o benefício é devido desde a data do falecimento (180 dias no caso de filho menor de 16 anos). Após esse prazo, passa a ser pago a partir da data do requerimento. Por isso é importante não demorar para protocolar o pedido."
+      },
+      {
+        "q": "A pensão é vitalícia?",
+        "a": "Depende. Para o cônjuge ou companheiro, a duração varia conforme a idade na data do óbito e o tempo de casamento/união. A vitaliciedade ocorre, em regra, quando o cônjuge tem 45 anos ou mais na data do óbito, observados os demais requisitos. Para filhos, em geral vai até os 21 anos, salvo invalidez ou deficiência."
+      },
+      {
+        "q": "Tenho direito mesmo morando junto sem ter casado no papel?",
+        "a": "Sim. A <strong>união estável</strong> garante o direito à pensão, desde que comprovada. Documentos como conta conjunta, comprovantes no mesmo endereço, filhos em comum e declarações ajudam. Agende sua consulta para organizarmos as provas adequadas."
+      }
     ]
   },
-  "inventario": {
-    "slug": "inventario",
-    "nav": "inventario",
+  "bpc-loas": {
+    "slug": "bpc-loas",
+    "nav": "BPC/LOAS",
     "related_category": null,
-    "schema_type": "LegalService",
-    "page_title": "Inventário e Partilha · Gomes & Dutra Advocacia · Manhuaçu/MG",
-    "page_description": "Inventário e partilha em Manhuaçu/MG, judicial e extrajudicial (cartório): transmissão de bens aos herdeiros, ITCMD, testamento e prazos legais.",
-    "eyebrow": "Família e Sucessões",
-    "h1": "Inventário e <em>Partilha</em>.",
-    "subtitle": "Após o falecimento, os bens só se transferem aos herdeiros pelo inventário. Conduzimos o processo no cartório ou na Justiça, com cuidado e agilidade.",
+    "page_title": "BPC/LOAS · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "BPC/LOAS: benefício de um salário mínimo para idosos e pessoas com deficiência de baixa renda. Atendimento online em todo o Brasil. Agende sua consulta.",
+    "eyebrow": "Direito Previdenciário",
+    "h1": "BPC/LOAS para <em>Idosos</em> e Pessoas com Deficiência.",
+    "subtitle": "O Benefício de Prestação Continuada assegura um salário mínimo mensal a quem está em situação de vulnerabilidade. Mostramos se você tem direito e cuidamos do pedido.",
     "cta_text": "Falar com o escritório no WhatsApp",
-    "wa_text": "Olá, Gomes & Dutra. Vim pela página de inventário e partilha.",
-    "color": "#B0633A",
+    "wa_text": "Olá, João Rocha. Vim pela página de BPC/LOAS.",
+    "color": "#356A9A",
     "intro": {
-      "h2": "A transmissão da <em>herança</em> feita com cuidado.",
+      "h2": "Um <em>amparo</em> para quem mais precisa.",
       "paragraphs": [
-        "O inventário é o procedimento que apura os <strong>bens, direitos e dívidas</strong> deixados por quem faleceu e os transfere aos herdeiros pela <strong>partilha</strong>. Ele pode ser feito de duas formas: <strong>extrajudicial</strong>, em cartório, por escritura pública, quando todos os herdeiros são <strong>maiores, capazes e estão de acordo</strong> (Lei 11.441/2007); ou <strong>judicial</strong>, obrigatório quando há herdeiro menor ou incapaz, testamento ou conflito entre os herdeiros. O prazo recomendado para abrir o inventário é de <strong>60 dias</strong> a contar do falecimento, sob pena de multa sobre o ITCMD em Minas Gerais.",
-        "Conduzimos todo o procedimento: levantamento de bens e dívidas, qualificação dos herdeiros, cálculo e recolhimento do <strong>ITCMD</strong> (imposto estadual sobre herança), elaboração do <strong>plano de partilha</strong> e a transferência final dos imóveis e demais bens. A sócia <strong>Paloma Dutra</strong>, com dez anos de Cartório de Notas, <strong>lavrou escrituras de inventário</strong> como Oficial Substituta — experiência que torna a via extrajudicial, quando cabível, mais ágil e segura. O objetivo é <em>resolver a sucessão preservando a relação entre a família</em>."
+        "O BPC (Benefício de Prestação Continuada), previsto na <strong>Lei 8.742/1993 (LOAS)</strong>, é um benefício assistencial de um salário mínimo por mês. Tem direito o idoso com 65 anos ou mais e a pessoa com deficiência de qualquer idade, desde que comprovem a situação de baixa renda. Não é aposentadoria: não exige contribuição ao INSS e, por isso, não gera 13º nem deixa pensão por morte.",
+        "O critério principal é a renda: em regra, a <strong>renda familiar por pessoa (per capita) deve ser de até 1/4 do salário mínimo</strong>. Esse limite pode ser ampliado em situações específicas, considerando gastos com saúde, medicamentos e deficiência. É indispensável estar inscrito no <strong>CadÚnico</strong> atualizado. Para a pessoa com deficiência, exige-se impedimento de longo prazo (mínimo de 2 anos) que dificulte a participação plena na sociedade, avaliado em perícia médica e social."
       ]
     },
-    "bullets_eye": "Como atuamos",
-    "bullets_h2": "Da abertura à <em>partilha</em>, sem desgaste.",
+    "bullets_eye": "Como ajudamos",
+    "bullets_h2": "Demonstramos que você <em>cumpre</em> os requisitos.",
     "bullets": [
-      {"title": "Diagnóstico da sucessão", "text": "Levantamos bens, dívidas e herdeiros e definimos se o inventário pode ser feito no cartório (extrajudicial) ou se exige a via judicial."},
-      {"title": "Inventário extrajudicial", "text": "Quando há consenso e todos são capazes, conduzimos o inventário por escritura pública em cartório — caminho normalmente mais rápido e econômico."},
-      {"title": "Inventário judicial", "text": "Havendo menor, incapaz, testamento ou conflito, atuamos no processo judicial, defendendo os direitos dos herdeiros que representamos."},
-      {"title": "ITCMD e transferência dos bens", "text": "Calculamos e orientamos o recolhimento do ITCMD e cuidamos da transferência final dos imóveis e demais bens para o nome dos herdeiros."}
+      {
+        "title": "Análise do critério de renda",
+        "text": "Calculamos a renda per capita da família e identificamos despesas que podem ser deduzidas, ampliando a chance de enquadramento mesmo quando a renda parece um pouco acima do limite."
+      },
+      {
+        "title": "Preparação para a perícia",
+        "text": "Organizamos laudos, exames e relatórios médicos para comprovar o impedimento de longo prazo na avaliação médica e social do INSS, etapa decisiva no benefício à pessoa com deficiência."
+      },
+      {
+        "title": "CadÚnico e documentação",
+        "text": "Orientamos sobre a inscrição e a atualização do Cadastro Único e reunimos a documentação da composição familiar, evitando indeferimentos por falhas formais."
+      },
+      {
+        "title": "Recurso contra negativa",
+        "text": "Muitos pedidos são negados por avaliação de renda ou perícia. Recorremos na via administrativa e, quando necessário, judicial, para garantir o benefício."
+      }
     ],
     "faq": [
-      {"q": "Quando o inventário pode ser feito em cartório?", "a": "Quando <strong>todos os herdeiros são maiores e capazes</strong> e há <strong>acordo</strong> sobre a partilha, e desde que, em regra, não haja testamento. Nesses casos, o inventário extrajudicial é feito por escritura pública, costuma ser mais rápido que o judicial e exige a presença de advogado."},
-      {"q": "Existe prazo para abrir o inventário?", "a": "Sim. A recomendação legal é abrir em <strong>60 dias</strong> a contar do falecimento. Em Minas Gerais, o atraso pode gerar <strong>multa sobre o ITCMD</strong>. Além disso, deixar para depois costuma encarecer e complicar a sucessão, sobretudo se surgirem novas dívidas ou desentendimentos."},
-      {"q": "Tem que pagar imposto para receber a herança?", "a": "Sim, o <strong>ITCMD</strong>, imposto estadual sobre transmissão por morte, calculado sobre o valor dos bens. Sem o recolhimento, os imóveis não são transferidos aos herdeiros. Calculamos o valor devido e orientamos sobre eventuais isenções e parcelamentos previstos na legislação de Minas Gerais."}
+      {
+        "q": "Quem nunca contribuiu para o INSS pode receber o BPC?",
+        "a": "Sim. O BPC é um <strong>benefício assistencial</strong>, não previdenciário. Não é necessário ter contribuído. Os requisitos são ser idoso (65 anos ou mais) ou pessoa com deficiência e comprovar a situação de baixa renda da família."
+      },
+      {
+        "q": "Qual é o limite de renda para ter direito?",
+        "a": "A regra geral é renda familiar por pessoa de até <strong>1/4 do salário mínimo</strong>. Esse limite pode ser flexibilizado diante de gastos com saúde, medicamentos e a própria deficiência. Avaliamos a renda real da família, considerando essas despesas."
+      },
+      {
+        "q": "O BPC dá 13º salário ou deixa pensão por morte?",
+        "a": "Não. Por ser assistencial, o BPC não paga 13º salário e não gera pensão por morte aos dependentes. Ele também pode ser revisado periodicamente pelo INSS para verificar se os requisitos continuam atendidos."
+      }
     ]
   },
-  "divorcio": {
-    "slug": "divorcio",
-    "nav": "divorcio",
+  "revisao-de-beneficios": {
+    "slug": "revisao-de-beneficios",
+    "nav": "revisão de benefícios",
     "related_category": null,
-    "schema_type": "LegalService",
-    "page_title": "Divórcio · Gomes & Dutra Advocacia · Manhuaçu/MG",
-    "page_description": "Divórcio consensual e litigioso em Manhuaçu/MG, judicial e extrajudicial (cartório): partilha de bens, guarda, pensão e dissolução de união estável.",
-    "eyebrow": "Família e Sucessões",
-    "h1": "Divórcio <em>Consensual e Litigioso</em>.",
-    "subtitle": "O fim do casamento pode ser conduzido com respeito e técnica. Cuidamos do divórcio no cartório ou na Justiça, com a partilha, a guarda e a pensão bem resolvidas.",
+    "page_title": "Revisão de Benefícios · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Revisão de aposentadorias e benefícios do INSS pagos com valor menor que o devido. Atendimento online em todo o Brasil. Agende sua consulta.",
+    "eyebrow": "Direito Previdenciário",
+    "h1": "Revisão de <em>Benefícios</em> do INSS.",
+    "subtitle": "Aposentadorias e pensões muitas vezes são concedidas com valor menor do que o correto. Verificamos o cálculo e buscamos a diferença, inclusive os valores atrasados.",
     "cta_text": "Falar com o escritório no WhatsApp",
-    "wa_text": "Olá, Gomes & Dutra. Vim pela página de divórcio.",
-    "color": "#1F8A8A",
+    "wa_text": "Olá, João Rocha. Vim pela página de revisão de benefícios.",
+    "color": "#2C7E8F",
     "intro": {
-      "h2": "Encerrar com <em>dignidade</em> e segurança jurídica.",
+      "h2": "Seu benefício pode estar <em>incorreto</em>.",
       "paragraphs": [
-        "O divórcio pode ser <strong>consensual</strong>, quando o casal concorda com os termos, ou <strong>litigioso</strong>, quando há divergência sobre partilha, guarda ou pensão. Quando há acordo e <strong>não há filhos menores ou incapazes</strong>, o divórcio pode ser feito de forma <strong>extrajudicial</strong>, por escritura pública em cartório, de modo rápido e sem audiência (Lei 11.441/2007). Havendo filhos menores, incapazes ou litígio, o caminho é o <strong>judicial</strong>, mas mesmo nele buscamos sempre a solução mais célere e menos desgastante.",
-        "Em qualquer formato, o divórcio envolve decisões importantes: a <strong>partilha de bens</strong> conforme o regime do casamento, a <strong>guarda</strong> e a convivência dos filhos, a <strong>pensão alimentícia</strong> e o uso do nome. Tratamos também da <strong>dissolução de união estável</strong>, que segue lógica semelhante. A sócia <strong>Paloma Dutra</strong>, pós-graduanda em Direito de Família e Sucessões e com dez anos de Cartório de Notas, onde <strong>lavrou escrituras de divórcio</strong>, conduz o caso com técnica e sensibilidade, priorizando o seu interesse e o <em>bem-estar dos filhos</em>."
+        "Erros no cálculo do INSS são frequentes: salários de contribuição lançados a menor, períodos especiais não reconhecidos, vínculos esquecidos no CNIS e uso de regra menos vantajosa. Quando isso acontece, o segurado recebe por anos um valor inferior ao devido. A revisão corrige a renda mensal e pode gerar o pagamento das <strong>diferenças atrasadas</strong>, respeitada a prescrição das parcelas dos últimos cinco anos.",
+        "Existe, porém, um <strong>prazo decadencial de 10 anos</strong> para revisar o ato de concessão, contado, em regra, a partir do primeiro pagamento do benefício. Por isso, quanto antes a análise for feita, melhor. Avaliamos a carta de concessão e a memória de cálculo para identificar qual revisão se aplica ao seu caso — sempre verificando se ela é, de fato, vantajosa antes de qualquer pedido."
+      ]
+    },
+    "bullets_eye": "Como ajudamos",
+    "bullets_h2": "Conferimos cada <em>detalhe</em> do seu cálculo.",
+    "bullets": [
+      {
+        "title": "Auditoria da carta de concessão",
+        "text": "Analisamos a memória de cálculo, os salários de contribuição e a regra aplicada para descobrir se o INSS deixou de incluir períodos ou usou índices errados."
+      },
+      {
+        "title": "Reconhecimento de tempo especial",
+        "text": "Buscamos a conversão de tempo trabalhado com exposição a agentes nocivos, o que pode elevar o tempo de contribuição e, consequentemente, o valor do benefício."
+      },
+      {
+        "title": "Inclusão de vínculos e contribuições",
+        "text": "Corrigimos o CNIS para somar salários, vínculos e contribuições não computados, refletindo isso no recálculo da renda mensal inicial."
+      },
+      {
+        "title": "Cobrança dos atrasados",
+        "text": "Quando a revisão é cabível, requeremos as diferenças vencidas dos últimos cinco anos, com correção monetária e juros, na via administrativa ou judicial."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Existe prazo para pedir a revisão?",
+        "a": "Sim. Em regra, há <strong>decadência de 10 anos</strong> para revisar o ato de concessão, contados do primeiro pagamento ou da negativa administrativa. Além disso, só é possível cobrar as diferenças dos últimos cinco anos (prescrição). Por isso, o quanto antes for feita a análise, mais valores podem ser recuperados."
+      },
+      {
+        "q": "Toda revisão aumenta o valor do benefício?",
+        "a": "Não. Algumas teses revisionais só valem a pena em situações específicas. Antes de ingressar com qualquer pedido, fazemos o recálculo para confirmar que a revisão é realmente vantajosa, evitando processos sem benefício real ao cliente."
+      },
+      {
+        "q": "Recebo benefício há anos. Ainda dá para revisar?",
+        "a": "Pode ser possível, desde que não tenha decorrido o prazo de decadência de 10 anos e exista erro a corrigir. Traga sua carta de concessão e o extrato do CNIS: com esses documentos conseguimos avaliar. Agende sua consulta."
+      }
+    ]
+  },
+  "defesa-criminal": {
+    "slug": "defesa-criminal",
+    "nav": "defesa-criminal",
+    "related_category": null,
+    "page_title": "Defesa Criminal · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Defesa criminal estratégica e sigilosa em todas as fases do processo penal. Atuação em prisões, flagrante, inquérito e audiências. Atendimento online em todo o Brasil.",
+    "eyebrow": "Direito Criminal",
+    "h1": "Defesa criminal <em>estratégica</em> em cada fase do processo",
+    "subtitle": "Da abordagem policial à sentença, sua liberdade e sua honra exigem técnica, sigilo e presença constante. Atuamos com firmeza desde a primeira hora.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, João Rocha. Vim pela página de defesa criminal.",
+    "color": "#7C2D3A",
+    "intro": {
+      "h2": "Acusação não é <em>condenação</em>",
+      "paragraphs": [
+        "Toda pessoa é presumida inocente até o trânsito em julgado de sentença penal condenatória, garantia inscrita no <strong>art. 5º, LVII, da Constituição Federal</strong>. O papel da defesa técnica é assegurar que essa presunção seja respeitada em cada ato: no flagrante, no inquérito policial, na audiência de custódia e ao longo de toda a instrução criminal.",
+        "Atuamos em crimes contra a vida, o patrimônio, a honra, a Administração Pública, tráfico de drogas, crimes de trânsito e econômicos, entre outros. Acompanhamos o investigado desde a fase policial, requeremos diligências, impugnamos provas ilícitas, pleiteamos relaxamento de prisão ilegal e liberdade provisória, e sustentamos a tese defensiva nas audiências de instrução e julgamento."
       ]
     },
     "bullets_eye": "Como atuamos",
-    "bullets_h2": "Cada questão do divórcio <em>bem resolvida</em>.",
+    "bullets_h2": "Defesa <em>presente</em> em todas as etapas",
     "bullets": [
-      {"title": "Consensual ou litigioso", "text": "Avaliamos se o caso comporta acordo e indicamos a via mais rápida — o cartório, quando possível, ou a Justiça quando há filhos menores ou conflito."},
-      {"title": "Partilha de bens", "text": "Organizamos a divisão do patrimônio conforme o regime do casamento ou da união estável, com atenção a imóveis, empresas e dívidas do casal."},
-      {"title": "Guarda e pensão", "text": "Definimos guarda, convivência e pensão alimentícia dos filhos, sempre orientados pelo melhor interesse da criança e do adolescente."},
-      {"title": "União estável", "text": "Cuidamos do reconhecimento e da dissolução da união estável, com a mesma estrutura de partilha, guarda e alimentos."}
+      {
+        "title": "Prisão em flagrante e custódia",
+        "text": "Análise imediata do auto de prisão em flagrante e atuação na audiência de custódia, realizada em até 24 horas, para requerer o relaxamento de prisão ilegal, a liberdade provisória ou a aplicação de medidas cautelares diversas da prisão."
+      },
+      {
+        "title": "Inquérito policial",
+        "text": "Acompanhamento do investigado em depoimentos, garantia do direito ao silêncio e à não autoincriminação, requerimento de diligências e acesso aos autos já documentados, nos termos da Súmula Vinculante 14 do STF."
+      },
+      {
+        "title": "Prisão preventiva e temporária",
+        "text": "Impugnação de prisões cautelares por ausência de seus requisitos legais (art. 312 e 313 do CPP), pedidos de revogação, relaxamento e substituição por medidas cautelares menos gravosas."
+      },
+      {
+        "title": "Instrução e julgamento",
+        "text": "Sustentação da tese defensiva na audiência de instrução: inquirição de testemunhas, reperguntas, interrogatório do réu, alegações finais e recursos às instâncias superiores quando necessário."
+      }
     ],
     "faq": [
-      {"q": "Dá para fazer o divórcio em cartório?", "a": "Sim, quando o casal está de <strong>acordo</strong> e <strong>não há filhos menores ou incapazes</strong> (nem gestação). Nesse caso, o divórcio é feito por escritura pública, com presença de advogado, de forma rápida e sem audiência. Havendo filhos menores ou litígio, o caminho passa a ser o judicial."},
-      {"q": "Como ficam os bens no divórcio?", "a": "Depende do <strong>regime de bens</strong> do casamento. Na comunhão parcial, partilham-se os bens adquiridos na constância da união; na comunhão universal, praticamente todo o patrimônio; na separação total, cada um conserva o seu. Analisamos o regime e o patrimônio para organizar uma partilha justa."},
-      {"q": "Preciso resolver o divórcio e a pensão dos filhos ao mesmo tempo?", "a": "Não necessariamente. O <strong>divórcio pode ser decretado</strong> mesmo que ainda haja discussão sobre partilha ou alimentos, que podem ser resolvidos em seguida. Em muitos casos, isso permite encerrar o vínculo conjugal mais rápido, sem prejudicar a definição da guarda e da pensão."}
+      {
+        "q": "Fui chamado para depor na delegacia. Preciso de advogado?",
+        "a": "Sim. Mesmo na fase de inquérito, o acompanhamento por advogado é essencial para resguardar o direito ao silêncio, evitar a autoincriminação e garantir que o depoimento seja prestado dentro da legalidade. Agende sua consulta antes de comparecer."
+      },
+      {
+        "q": "A prisão em flagrante sempre mantém a pessoa presa?",
+        "a": "Não necessariamente. Na audiência de custódia, o juiz pode relaxar a prisão se ilegal, conceder liberdade provisória com ou sem fiança, aplicar medidas cautelares diversas ou converter o flagrante em preventiva. A atuação técnica imediata é decisiva nesse momento."
+      },
+      {
+        "q": "O atendimento é sigiloso?",
+        "a": "Integralmente. O sigilo profissional é dever do advogado e direito do cliente. Todo o atendimento é confidencial, e oferecemos consultas online para pessoas em qualquer lugar do Brasil."
+      }
     ]
   },
-  "direito-familia": {
-    "slug": "direito-familia",
-    "nav": "direito-familia",
+  "habeas-corpus": {
+    "slug": "habeas-corpus",
+    "nav": "habeas-corpus",
     "related_category": null,
-    "schema_type": "LegalService",
-    "page_title": "Direito de Família · Gomes & Dutra Advocacia · Manhuaçu/MG",
-    "page_description": "Direito de família em Manhuaçu/MG: guarda, pensão alimentícia, união estável, regime de bens e planejamento familiar, na via judicial e extrajudicial.",
-    "eyebrow": "Família e Sucessões",
-    "h1": "Direito de <em>Família</em>.",
-    "subtitle": "As relações familiares pedem cuidado técnico e humano. Atuamos em guarda, pensão, união estável e regime de bens, sempre buscando a solução mais equilibrada.",
+    "page_title": "Habeas Corpus · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Habeas corpus contra prisão ilegal e constrangimento à liberdade. Impetração urgente, preventiva ou liberatória, com sigilo. Atendimento online em todo o Brasil.",
+    "eyebrow": "Direito Criminal",
+    "h1": "Habeas corpus contra a <em>prisão</em> ilegal",
+    "subtitle": "O remédio constitucional mais poderoso em defesa da liberdade de locomoção. Quando há constrangimento ilegal, a resposta precisa ser técnica e imediata.",
     "cta_text": "Falar com o escritório no WhatsApp",
-    "wa_text": "Olá, Gomes & Dutra. Vim pela página de direito de família.",
+    "wa_text": "Olá, João Rocha. Vim pela página de habeas corpus.",
+    "color": "#8A3A2A",
+    "intro": {
+      "h2": "Sua <em>liberdade</em> de ir e vir é cláusula pétrea",
+      "paragraphs": [
+        "O habeas corpus está previsto no <strong>art. 5º, LXVIII, da Constituição Federal</strong>: conceder-se-á sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder. É a garantia mais antiga e direta de proteção contra a prisão arbitrária.",
+        "A ação pode ser liberatória, quando a pessoa já está presa ilegalmente, ou preventiva (salvo-conduto), quando há ameaça concreta à liberdade. Impetra-se contra prisões sem fundamentação idônea, excesso de prazo, ausência dos requisitos da preventiva, nulidades processuais e constrangimentos diversos, junto ao tribunal competente, inclusive com pedido de liminar urgente."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Impetração <em>técnica</em> e urgente",
+    "bullets": [
+      {
+        "title": "HC liberatório",
+        "text": "Para quem já está preso ilegalmente: identificamos o constrangimento — falta de fundamentação, excesso de prazo, ausência dos pressupostos da prisão — e requeremos a expedição imediata do alvará de soltura, com pedido de liminar."
+      },
+      {
+        "title": "HC preventivo",
+        "text": "Quando há ameaça real à liberdade de locomoção, buscamos a concessão de salvo-conduto para impedir prisão ou constrangimento ilegal iminente."
+      },
+      {
+        "title": "Liminar de urgência",
+        "text": "Em casos que não admitem espera, formulamos pedido de medida liminar para suspender de imediato a coação até o julgamento do mérito pelo tribunal."
+      },
+      {
+        "title": "Trancamento e nulidades",
+        "text": "Impetração para trancar inquérito ou ação penal manifestamente abusivos, sanar nulidades e combater ilegalidades em decisões que afetem a liberdade de ir e vir."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quem pode impetrar habeas corpus?",
+        "a": "Qualquer pessoa pode impetrar, em favor próprio ou de terceiro, e até o Ministério Público. Não exige capacidade postulatória, mas a elaboração técnica por advogado aumenta significativamente as chances de êxito, especialmente na fundamentação e no pedido de liminar."
+      },
+      {
+        "q": "Em quanto tempo o habeas corpus é julgado?",
+        "a": "O HC tem tramitação prioritária e urgente. Havendo pedido de liminar, o relator pode decidir em poucas horas ou dias. Por isso, quanto antes a defesa for acionada, mais rápida tende a ser a resposta contra a prisão ilegal."
+      },
+      {
+        "q": "Posso pedir habeas corpus antes de ser preso?",
+        "a": "Sim. É o habeas corpus preventivo, cabível quando há ameaça concreta e atual à liberdade de locomoção. Se concedido, o juiz expede salvo-conduto que impede a prisão ou o constrangimento ilegal. Agende sua consulta para avaliar o caso."
+      }
+    ]
+  },
+  "tribunal-do-juri": {
+    "slug": "tribunal-do-juri",
+    "nav": "tribunal-do-juri",
+    "related_category": null,
+    "page_title": "Tribunal do Júri · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Defesa no Tribunal do Júri em crimes dolosos contra a vida. Atuação técnica nas duas fases e sustentação em plenário, com sigilo. Atendimento online em todo o Brasil.",
+    "eyebrow": "Direito Criminal",
+    "h1": "Defesa no Tribunal do <em>Júri</em>",
+    "subtitle": "Crimes dolosos contra a vida são julgados pelo povo. A defesa em plenário exige preparo técnico, estratégia e oratória diante do Conselho de Sentença.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, João Rocha. Vim pela página de Tribunal do Júri.",
+    "color": "#5A3A4A",
+    "intro": {
+      "h2": "O julgamento pelos <em>seus pares</em>",
+      "paragraphs": [
+        "O Tribunal do Júri é competente para julgar os crimes dolosos contra a vida — homicídio, infanticídio, aborto e participação em suicídio —, consumados ou tentados, conforme o <strong>art. 5º, XXXVIII, da Constituição Federal</strong>, que assegura a plenitude de defesa, o sigilo das votações e a soberania dos veredictos.",
+        "O procedimento é bifásico. Na primeira fase (judicium accusationis), o juiz decide se há indícios suficientes para levar o réu a julgamento, podendo pronunciar, impronunciar, absolver sumariamente ou desclassificar a conduta. Pronunciado, o réu vai a plenário (judicium causae), onde sete jurados sorteados compõem o Conselho de Sentença e decidem, por votação sigilosa, sobre a materialidade, a autoria e as teses defensivas."
+      ]
+    },
+    "bullets_eye": "Como atuamos",
+    "bullets_h2": "Estratégia para o <em>plenário</em>",
+    "bullets": [
+      {
+        "title": "Primeira fase do rito",
+        "text": "Atuação na fase de pronúncia com defesa prévia, produção de provas e alegações, buscando a impronúncia, a absolvição sumária ou a desclassificação para crime fora da competência do júri quando cabível."
+      },
+      {
+        "title": "Preparação do plenário",
+        "text": "Estudo aprofundado dos autos, definição da tese (legítima defesa, negativa de autoria, desclassificação, teses de redução de pena) e preparação de testemunhas e da prova a ser apresentada aos jurados."
+      },
+      {
+        "title": "Sustentação perante os jurados",
+        "text": "Defesa em plenário com debates orais, inquirição de testemunhas, apartes e sustentação clara e persuasiva diante do Conselho de Sentença, com plenitude de defesa."
+      },
+      {
+        "title": "Quesitos e recursos",
+        "text": "Atenção rigorosa à formulação e à votação dos quesitos e interposição de recurso quando a decisão dos jurados for manifestamente contrária à prova dos autos, com pedido de novo julgamento."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quais crimes são julgados pelo Tribunal do Júri?",
+        "a": "Os crimes dolosos contra a vida — homicídio, infanticídio, aborto e participação em suicídio ou automutilação —, consumados ou tentados, além dos crimes conexos a eles. A competência do júri é fixada pela Constituição Federal."
+      },
+      {
+        "q": "O que significa plenitude de defesa no júri?",
+        "a": "É uma garantia mais ampla que a ampla defesa comum: no plenário, a defesa pode utilizar argumentos jurídicos e também extrajurídicos — sociais, emocionais e de equidade — para convencer os jurados, que decidem por íntima convicção e em votação sigilosa."
+      },
+      {
+        "q": "Como funciona a decisão dos jurados?",
+        "a": "Sete jurados leigos são sorteados para o Conselho de Sentença e respondem aos quesitos sobre materialidade, autoria e teses apresentadas, em votação sigilosa. A decisão é soberana, mas pode ser revista em recurso quando contrária à prova dos autos, hipótese em que se determina novo julgamento."
+      }
+    ]
+  },
+  "indenizacoes": {
+    "slug": "indenizacoes",
+    "nav": "indenizacoes",
+    "related_category": null,
+    "page_title": "Indenizações · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Indenização por dano moral e material: responsabilidade civil, CDC e negativação indevida. Atendimento online em todo o Brasil. Agende sua consulta.",
+    "eyebrow": "Direito Cível",
+    "h1": "Indenizações por danos morais e <em>materiais</em>",
+    "subtitle": "Quem sofre um prejuízo causado por outra pessoa ou empresa tem direito à reparação. Avaliamos seu caso e buscamos a indenização cabível.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, João Rocha. Vim pela página de indenizações.",
+    "color": "#2E7D5F",
+    "intro": {
+      "h2": "Toda lesão a um direito gera o dever de <em>reparar</em>",
+      "paragraphs": [
+        "A responsabilidade civil está prevista nos <strong>artigos 186 e 927 do Código Civil</strong>: quem, por ação ou omissão, dolo ou culpa, viola direito e causa dano a outrem fica obrigado a repará-lo. O dano pode ser material (prejuízo financeiro comprovável, como despesas médicas, lucros cessantes e bens danificados) ou moral (ofensa à honra, à imagem, à dignidade e ao bem-estar psíquico da vítima).",
+        "Em relações de consumo aplica-se o Código de Defesa do Consumidor, que adota a responsabilidade objetiva do fornecedor (independe de culpa) por produtos e serviços defeituosos. Situações como negativação indevida do nome, cobrança vexatória, voo cancelado, erro médico, acidente de trânsito e protesto irregular de título podem ensejar indenização. O prazo prescricional, em regra, é de três anos para reparação civil (art. 206, §3º, V, do Código Civil) e de cinco anos no CDC para fato do produto ou serviço."
+      ]
+    },
+    "bullets_eye": "Como ajudamos",
+    "bullets_h2": "Atuação completa em <em>responsabilidade civil</em>",
+    "bullets": [
+      {
+        "title": "Dano moral",
+        "text": "Inscrição indevida em SPC/Serasa, inscrição mantida após pagamento, ofensas, exposição indevida da imagem e falhas graves de prestação de serviço. Reunimos provas e quantificamos a reparação conforme a jurisprudência."
+      },
+      {
+        "title": "Dano material",
+        "text": "Recomposição de prejuízos efetivos (danos emergentes) e do que se deixou de ganhar (lucros cessantes), com cálculo documentado de despesas, reparos e perdas patrimoniais."
+      },
+      {
+        "title": "Relações de consumo",
+        "text": "Ações contra bancos, operadoras, companhias aéreas, planos de saúde e fornecedores por cobranças abusivas, produtos defeituosos e descumprimento de oferta, com base no CDC."
+      },
+      {
+        "title": "Acidentes e DPVAT/seguros",
+        "text": "Indenização por acidentes de trânsito e de trabalho, negativas indevidas de seguradoras e responsabilização do causador do dano, incluindo pensão por incapacidade quando cabível."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Tenho direito a indenização por nome negativado indevidamente?",
+        "a": "Em regra, a inscrição indevida do nome em cadastros de inadimplentes configura dano moral presumido (in re ipsa), dispensando prova do abalo. É possível pleitear a retirada do registro e a reparação. Cada caso deve ser analisado, pois a existência de outras negativações legítimas anteriores pode afastar o dano moral, conforme a Súmula 385 do STJ."
+      },
+      {
+        "q": "Qual o prazo para pedir indenização?",
+        "a": "A pretensão de reparação civil prescreve, como regra geral, em três anos (art. 206, §3º, V, do Código Civil). Em relações de consumo por fato do produto ou serviço, o prazo é de cinco anos (art. 27 do CDC). Há prazos específicos para outras situações, por isso é importante buscar orientação o quanto antes para não perder o direito."
+      },
+      {
+        "q": "Como é definido o valor da indenização?",
+        "a": "O dano material corresponde ao prejuízo efetivamente comprovado. Já o dano moral é fixado pelo juiz observando a gravidade da ofensa, a extensão do dano, a capacidade econômica das partes e o caráter pedagógico, sempre evitando enriquecimento sem causa. Avaliamos as provas e estimamos um valor compatível com a jurisprudência."
+      }
+    ]
+  },
+  "contratos-cobrancas": {
+    "slug": "contratos-cobrancas",
+    "nav": "contratos-cobrancas",
+    "related_category": null,
+    "page_title": "Contratos e Cobranças · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Elaboração e revisão de contratos, distrato, ação de cobrança, execução de título e negativação indevida. Atendimento online em todo o Brasil.",
+    "eyebrow": "Direito Cível",
+    "h1": "Contratos e <em>cobranças</em> com segurança jurídica",
+    "subtitle": "Da redação de um contrato sólido à recuperação de valores devidos, atuamos para prevenir conflitos e proteger seu patrimônio.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, João Rocha. Vim pela página de contratos e cobranças.",
+    "color": "#B8862E",
+    "intro": {
+      "h2": "Contrato bem feito evita <em>litígio</em>",
+      "paragraphs": [
+        "O contrato é a lei entre as partes e deve refletir com clareza obrigações, prazos, garantias e penalidades. A <strong>elaboração e a revisão contratual</strong> reduzem riscos, eliminam cláusulas abusivas ou ambíguas e dão previsibilidade ao negócio. Quando a relação se encerra, o distrato formaliza o fim do vínculo, e o inadimplemento autoriza a parte prejudicada a exigir o cumprimento, a resolução do contrato e perdas e danos (arts. 389 e 475 do Código Civil).",
+        "Para recuperar valores existem caminhos distintos: a ação de cobrança, quando não há título executivo e o débito precisa ser reconhecido em juízo, e a execução de título, quando já existe documento dotado de força executiva (cheque, nota promissória, duplicata, contrato assinado por duas testemunhas, entre outros). A pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular prescreve em cinco anos (art. 206, §5º, I, do Código Civil). Cobranças indevidas ou negativações sem lastro também geram responsabilidade do credor."
+      ]
+    },
+    "bullets_eye": "Como ajudamos",
+    "bullets_h2": "Soluções para cada fase do <em>contrato</em>",
+    "bullets": [
+      {
+        "title": "Elaboração e revisão",
+        "text": "Redação de contratos de prestação de serviços, compra e venda, locação, prestação continuada e parcerias, com cláusulas de garantia, multa e foro, além da análise de minutas antes da assinatura."
+      },
+      {
+        "title": "Distrato e renegociação",
+        "text": "Encerramento formal de contratos, acordos de quitação, repactuação de prazos e valores e prevenção de cobranças futuras, com documentos que dão segurança a ambas as partes."
+      },
+      {
+        "title": "Ação de cobrança e execução",
+        "text": "Recuperação de créditos por ação de cobrança ou execução de título extrajudicial, com penhora, protesto e medidas para localizar bens do devedor."
+      },
+      {
+        "title": "Cobrança indevida e negativação",
+        "text": "Defesa de quem é cobrado por dívida inexistente ou já paga, com pedido de declaração de inexistência do débito, retirada da negativação e reparação dos danos."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Qual a diferença entre ação de cobrança e execução?",
+        "a": "A ação de cobrança é usada quando a dívida ainda não está documentada em um título executivo: o credor precisa provar a existência do crédito e obter uma sentença que reconheça o valor. Já a execução pressupõe um título executivo (judicial ou extrajudicial, como cheque, nota promissória ou contrato com duas testemunhas), permitindo partir direto para os atos de satisfação do crédito, como a penhora de bens."
+      },
+      {
+        "q": "Vale a pena revisar um contrato antes de assinar?",
+        "a": "Sim. A revisão prévia identifica cláusulas abusivas, omissões de garantias, multas desproporcionais e responsabilidades mal definidas. Corrigir esses pontos antes da assinatura custa muito menos do que discutir o contrato em juízo depois. Também orientamos sobre a forma adequada (testemunhas, reconhecimento de firma, registro) para reforçar a segurança do documento."
+      },
+      {
+        "q": "Em quanto tempo prescreve uma dívida?",
+        "a": "A cobrança de dívidas líquidas constantes de instrumento público ou particular prescreve, em regra, em cinco anos (art. 206, §5º, I, do Código Civil). Cheques e outros títulos têm prazos próprios para a execução. Após a prescrição, a dívida não pode mais ser cobrada judicialmente nem manter o nome negativado, por isso a análise do prazo é parte essencial da estratégia."
+      }
+    ]
+  },
+  "direito-de-familia": {
+    "slug": "direito-de-familia",
+    "nav": "direito-de-familia",
+    "related_category": null,
+    "page_title": "Direito de Família · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Divórcio, guarda, pensão alimentícia, união estável e inventário. Atuação sensível e técnica, com atendimento online em todo o Brasil. Agende sua consulta.",
+    "eyebrow": "Direito Cível",
+    "h1": "Direito de <em>família</em> e sucessões",
+    "subtitle": "Decisões de família exigem técnica e acolhimento. Conduzimos divórcios, guarda, alimentos, união estável e inventário com clareza e respeito.",
+    "cta_text": "Falar com o escritório no WhatsApp",
+    "wa_text": "Olá, João Rocha. Vim pela página de direito de família.",
     "color": "#A1495C",
     "intro": {
-      "h2": "As <em>relações</em> que mais importam, bem cuidadas.",
+      "h2": "Proteção jurídica para cada fase da <em>vida familiar</em>",
       "paragraphs": [
-        "O direito de família trata dos <strong>vínculos mais sensíveis da vida</strong>: a guarda e a convivência dos filhos, a <strong>pensão alimentícia</strong>, o reconhecimento e a dissolução da <strong>união estável</strong>, o regime de bens do casamento e os pactos antenupciais. São temas em que a técnica jurídica precisa caminhar junto com a escuta e o respeito — porque cada decisão afeta diretamente pessoas e, muitas vezes, crianças.",
-        "Atuamos na fixação, na revisão e na execução de <strong>alimentos</strong>, na definição da <strong>guarda</strong> (unilateral ou compartilhada) e do regime de convivência, no reconhecimento de união estável e na escolha ou alteração do <strong>regime de bens</strong>. Sempre que possível, conduzimos os acordos pela via <strong>consensual e extrajudicial</strong>, mais rápida e menos desgastante; quando há conflito, defendemos com firmeza o interesse de quem representamos e, acima de tudo, o <em>melhor interesse da criança e do adolescente</em>. A sócia <strong>Paloma Dutra</strong> é pós-graduanda em Direito de Família e Sucessões, área de dedicação especial do escritório."
+        "O Direito de Família cuida das relações mais sensíveis da vida. O <strong>divórcio</strong> pode ser consensual ou litigioso e, quando não há filhos menores ou incapazes e há acordo, pode ser feito por escritura pública em cartório, de forma mais rápida. A definição da guarda — que pode ser compartilhada (regra legal, art. 1.584 do Código Civil) ou unilateral — orienta-se sempre pelo melhor interesse da criança e do adolescente, assim como a regulamentação de visitas (convivência).",
+        "A pensão alimentícia é fixada com base no binômio necessidade de quem recebe e possibilidade de quem paga, podendo ser revista quando há mudança na situação financeira. A união estável gera direitos patrimoniais e sucessórios e pode ser reconhecida e dissolvida judicial ou extrajudicialmente. No falecimento, o inventário e a partilha organizam a transmissão dos bens; deve ser aberto, em regra, em até dois meses do óbito (art. 611 do CPC), e pode ser feito em cartório quando todos os herdeiros forem capazes e estiverem de acordo."
       ]
     },
-    "bullets_eye": "Como atuamos",
-    "bullets_h2": "Soluções <em>equilibradas</em> para a sua família.",
+    "bullets_eye": "Como ajudamos",
+    "bullets_h2": "Atuação completa em <em>família</em>",
     "bullets": [
-      {"title": "Guarda e convivência", "text": "Definimos guarda unilateral ou compartilhada e o regime de convivência, sempre orientados pelo melhor interesse dos filhos."},
-      {"title": "Pensão alimentícia", "text": "Atuamos na fixação, na revisão e na execução de alimentos, equilibrando a necessidade de quem recebe e a possibilidade de quem paga."},
-      {"title": "União estável", "text": "Cuidamos do reconhecimento e da dissolução da união estável, da partilha e da definição de direitos entre os companheiros."},
-      {"title": "Regime de bens", "text": "Orientamos a escolha do regime de bens, o pacto antenupcial e, quando cabível, a alteração de regime na constância do casamento."}
+      {
+        "title": "Divórcio e dissolução",
+        "text": "Divórcio consensual ou litigioso, dissolução de união estável e partilha de bens, com a opção do procedimento extrajudicial em cartório quando há acordo e não há menores envolvidos."
+      },
+      {
+        "title": "Guarda e convivência",
+        "text": "Definição de guarda compartilhada ou unilateral, regulamentação de visitas e atuação em casos de descumprimento, sempre orientadas pelo melhor interesse da criança."
+      },
+      {
+        "title": "Pensão alimentícia",
+        "text": "Ação de alimentos, revisão (majoração ou redução), exoneração e execução de pensão atrasada, inclusive com possibilidade de prisão civil do devedor."
+      },
+      {
+        "title": "União estável e inventário",
+        "text": "Reconhecimento e dissolução de união estável, pactos patrimoniais, inventário e partilha de herança, judicial ou extrajudicial, e planejamento sucessório."
+      }
     ],
     "faq": [
-      {"q": "Guarda compartilhada significa dividir o tempo pela metade?", "a": "Não. A <strong>guarda compartilhada</strong> significa que ambos os pais decidem juntos sobre a vida do filho; ela não exige divisão igual do tempo. A criança costuma ter uma residência de referência, e define-se um <strong>regime de convivência</strong> equilibrado com o outro genitor."},
-      {"q": "Como é definido o valor da pensão alimentícia?", "a": "Pelo <strong>binômio necessidade e possibilidade</strong>: pondera-se o que a criança ou o alimentando precisa e o quanto quem paga pode arcar. Não há percentual fixo em lei. O valor pode ser <strong>revisto</strong> sempre que essas condições mudarem, para mais ou para menos."},
-      {"q": "Vale a pena reconhecer a união estável formalmente?", "a": "Sim, pode trazer segurança. O reconhecimento por <strong>escritura ou contrato</strong> define a data de início, o regime de bens e os direitos do casal, evitando discussões futuras sobre partilha e herança. Orientamos a melhor forma de formalizar e proteger a relação."}
+      {
+        "q": "O divórcio pode ser feito sem ir à Justiça?",
+        "a": "Sim, quando o casal está de acordo com todos os termos e não há filhos menores ou incapazes, nem gravidez, o divórcio pode ser realizado por escritura pública em cartório, com a assistência de advogado. É um caminho mais rápido. Havendo filhos menores, divergências ou questões sobre guarda e alimentos, o procedimento corre no Judiciário."
+      },
+      {
+        "q": "Como é calculada a pensão alimentícia?",
+        "a": "Não existe um percentual fixo em lei. O valor é definido pelo binômio necessidade de quem recebe e possibilidade de quem paga, considerando a renda do alimentante, as despesas do alimentado e o padrão de vida da família. A pensão pode ser revista a qualquer tempo quando houver mudança comprovada na situação econômica de uma das partes."
+      },
+      {
+        "q": "Qual o prazo para abrir o inventário?",
+        "a": "O inventário deve ser instaurado, em regra, em até dois meses contados do falecimento (art. 611 do CPC), prazo cuja inobservância pode gerar multa sobre o ITCMD em alguns estados. Quando todos os herdeiros são maiores, capazes e estão de acordo, e não há testamento, o inventário pode ser feito por escritura pública em cartório, de forma mais célere; caso contrário, segue pela via judicial."
+      }
     ]
   },
-  "sucessoes": {
-    "slug": "sucessoes",
-    "nav": "sucessoes",
+  "sobre": {
+    "slug": "sobre",
+    "nav": "sobre",
     "related_category": null,
-    "schema_type": "LegalService",
-    "page_title": "Sucessões e Heranças · Gomes & Dutra Advocacia · Manhuaçu/MG",
-    "page_description": "Direito sucessório em Manhuaçu/MG: herança, testamento, planejamento sucessório, holding familiar e defesa dos direitos dos herdeiros, judicial e extrajudicial.",
-    "eyebrow": "Família e Sucessões",
-    "h1": "Sucessões e <em>Heranças</em>.",
-    "subtitle": "Organizar a transmissão do patrimônio em vida evita conflitos e custos. Atuamos no planejamento sucessório e na defesa dos direitos dos herdeiros.",
+    "page_title": "Sobre · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Conheça João Rocha, advogado atuante em Direito Criminal, Cível e Previdenciário. Atuação estratégica, sigilosa e humanizada, com atendimento online em todo o Brasil.",
+    "eyebrow": "Quem Somos",
+    "h1": "<em>João Rocha</em>, advogado.",
+    "subtitle": "Advocacia e consultoria jurídica em Direito Criminal, Cível e Previdenciário — atuação técnica, sigilosa e próxima do cliente, com atendimento online em todo o Brasil.",
     "cta_text": "Falar com o escritório no WhatsApp",
-    "wa_text": "Olá, Gomes & Dutra. Vim pela página de sucessões e heranças.",
-    "color": "#7A5A93",
+    "wa_text": "Olá, João Rocha. Vim pela página Sobre.",
     "intro": {
-      "h2": "O <em>patrimônio</em> da família transmitido em paz.",
+      "h2": "Advocacia <em>estratégica</em> e ao lado de quem precisa.",
       "paragraphs": [
-        "O direito das sucessões cuida da <strong>transmissão do patrimônio</strong> após a morte e, idealmente, da sua <strong>organização ainda em vida</strong>. A lei garante aos <strong>herdeiros necessários</strong> (descendentes, ascendentes e cônjuge) a chamada <strong>legítima</strong> — metade dos bens, que não pode ser livremente disposta — enquanto a outra metade pode ser destinada por <strong>testamento</strong>. Conhecer a <strong>ordem de vocação hereditária</strong> e os limites da liberdade de testar é essencial para proteger quem fica.",
-        "Atuamos tanto na fase de <strong>planejamento</strong> — elaboração de testamento, doações com reserva de usufruto, constituição de <strong>holding familiar</strong> para organizar e proteger o patrimônio e reduzir conflitos e custos futuros — quanto na <strong>defesa dos herdeiros</strong> em inventários e disputas: pedido de <strong>colação</strong>, ação de <strong>sonegados</strong> quando há ocultação de bens, anulação de partilhas e reconhecimento de direitos. A sócia <strong>Paloma Dutra</strong>, pós-graduanda em Direito de Família e Sucessões, conduz esses casos com o objetivo de <em>preservar tanto o patrimônio quanto a harmonia da família</em>."
+        "\"<em>Cada caso é uma história e uma pessoa por trás dele. Meu compromisso é ouvir com atenção, estudar com profundidade e conduzir cada demanda com técnica, ética e transparência — para que você entenda cada passo e decida com segurança.</em>\"",
+        "O escritório <strong>João Rocha Advocacia e Consultoria Jurídica</strong> atua em três grandes frentes: <strong>Direito Criminal</strong> (defesa em inquéritos, prisões, audiências, habeas corpus e Tribunal do Júri, com firmeza e sigilo), <strong>Direito Previdenciário</strong> (aposentadorias, pensões, BPC/LOAS e revisões junto ao INSS, com justiça e acolhimento) e <strong>Direito Cível</strong> (indenizações, contratos, cobranças e família, com foco em resultados).",
+        "Nosso método é <strong>objetivo e humano</strong>: ler o caso por inteiro, devolver ao cliente um diagnóstico honesto e agir com estratégia. Atendimento ágil pelo WhatsApp, sigilo profissional e total transparência nos honorários, combinados por escrito antes de qualquer trabalho. Atendemos presencialmente, com hora marcada, e <strong>online em todo o Brasil</strong>."
       ]
     },
-    "bullets_eye": "Como atuamos",
-    "bullets_h2": "Da <em>herança</em> ao planejamento, com técnica.",
+    "bullets_eye": "Princípios do escritório",
+    "bullets_h2": "O que <em>orienta</em> nosso trabalho.",
     "bullets": [
-      {"title": "Planejamento sucessório", "text": "Estruturamos a transmissão do patrimônio em vida, com testamento, doações e holding familiar, para reduzir conflitos, custos e o impacto do ITCMD."},
-      {"title": "Testamento", "text": "Elaboramos e orientamos o testamento dentro dos limites da legítima, garantindo que a sua vontade seja válida e respeitada."},
-      {"title": "Defesa dos herdeiros", "text": "Atuamos na defesa de quem foi prejudicado, com pedido de colação, ação de sonegados e impugnação de partilhas injustas."},
-      {"title": "Holding familiar", "text": "Estruturamos holdings para organizar e proteger o patrimônio da família e facilitar a futura sucessão entre os herdeiros."}
+      {
+        "title": "Atuação estratégica",
+        "text": "Estudamos cada caso a fundo e definimos a melhor estratégia antes de agir — no criminal, no previdenciário e no cível."
+      },
+      {
+        "title": "Sigilo e seriedade",
+        "text": "Atendimento confidencial e conduta ética em cada etapa, com respeito ao Estatuto da Advocacia e ao seu momento."
+      },
+      {
+        "title": "Atendimento ágil",
+        "text": "Respostas rápidas pelo WhatsApp e acompanhamento próximo: você nunca fica sem saber o andamento do seu caso."
+      },
+      {
+        "title": "Transparência total",
+        "text": "Honorários combinados por escrito antes de iniciar, sem cobranças surpresa, com um diagnóstico honesto desde o primeiro contato."
+      }
     ],
     "faq": [
-      {"q": "Posso deixar todos os meus bens para uma só pessoa?", "a": "Em regra, não, se você tiver <strong>herdeiros necessários</strong> (filhos, pais ou cônjuge). A lei reserva a eles a <strong>legítima</strong> — metade do patrimônio. A outra metade, a parte disponível, pode ser destinada livremente por testamento a quem você quiser, inclusive a quem não é herdeiro."},
-      {"q": "O que é planejamento sucessório e quando vale a pena?", "a": "É a organização da transmissão do patrimônio <strong>ainda em vida</strong>, por meio de testamento, doações e holding familiar. Vale a pena para <strong>reduzir conflitos, custos e tributos</strong> e dar previsibilidade à sucessão, especialmente quando há vários herdeiros, imóveis ou empresa familiar."},
-      {"q": "Um herdeiro escondeu bens da herança. O que fazer?", "a": "Cabe a <strong>ação de sonegados</strong>. O herdeiro que oculta dolosamente bens do inventário pode <strong>perder o direito sobre aquilo que sonegou</strong>. Reunimos a prova da existência dos bens e buscamos trazê-los à partilha, protegendo o quinhão dos demais herdeiros."}
+      {
+        "q": "Em quais áreas o escritório atua?",
+        "a": "Em três frentes principais: <strong>Direito Criminal</strong>, <strong>Direito Previdenciário</strong> (INSS) e <strong>Direito Cível</strong> (incluindo família, contratos, cobranças e indenizações). Avaliamos o seu caso e indicamos o melhor caminho."
+      },
+      {
+        "q": "Onde vocês atendem?",
+        "a": "Atendemos presencialmente, com hora marcada, e <strong>online em todo o Brasil</strong> — por WhatsApp, videoconferência e troca segura de documentos."
+      },
+      {
+        "q": "O atendimento é sigiloso?",
+        "a": "Sim. O sigilo profissional é dever do advogado e direito do cliente. Tudo o que você compartilha fica protegido pela confidencialidade prevista no Estatuto da Advocacia."
+      },
+      {
+        "q": "Como começamos?",
+        "a": "Agende sua consulta pelo <a href=\"https://wa.me/5500000000000\" target=\"_blank\">WhatsApp</a>. Você conta o que aconteceu, analisamos com calma e retornamos com um diagnóstico claro e os próximos passos."
+      }
     ]
   },
-  "doacoes": {
-    "slug": "doacoes",
-    "nav": "doacoes",
+  "contato": {
+    "slug": "contato",
+    "nav": "contato",
     "related_category": null,
-    "schema_type": "LegalService",
-    "page_title": "Doações e Testamentos · Gomes & Dutra Advocacia · Manhuaçu/MG",
-    "page_description": "Doações e testamentos em Manhuaçu/MG: doação em vida, reserva de usufruto, adiantamento de legítima e planejamento patrimonial, na via judicial e extrajudicial.",
-    "eyebrow": "Família e Sucessões",
-    "h1": "Doações e <em>Testamentos</em>.",
-    "subtitle": "Doar em vida e testar com técnica é a forma mais segura de organizar o futuro do seu patrimônio e evitar disputas entre os herdeiros.",
-    "cta_text": "Falar com o escritório no WhatsApp",
-    "wa_text": "Olá, Gomes & Dutra. Vim pela página de doações e testamentos.",
-    "color": "#8A7536",
+    "page_title": "Contato · João Rocha Advocacia · OAB/UF 000.000",
+    "page_description": "Fale com João Rocha Advocacia. Agende sua consulta pelo WhatsApp. Atendimento em Direito Criminal, Cível e Previdenciário, presencial e online em todo o Brasil.",
+    "eyebrow": "Contato",
+    "h1": "Vamos <em>conversar</em>.",
+    "subtitle": "Agende sua consulta pelo WhatsApp. Conte o que aconteceu — analisamos com calma e retornamos com um diagnóstico claro.",
+    "cta_text": "WhatsApp · (00) 00000-0000",
+    "wa_text": "Olá, João Rocha. Vim pela página de contato.",
     "intro": {
-      "h2": "Organizar a <em>herança</em> antes que ela vire conflito.",
+      "h2": "Dois caminhos <em>para começar</em>.",
       "paragraphs": [
-        "A <strong>doação</strong> é a transferência de bens em vida e pode ser uma poderosa ferramenta de planejamento — especialmente quando feita <strong>com reserva de usufruto</strong>, em que o doador continua usando e administrando o bem (morando no imóvel ou recebendo seus frutos) enquanto transfere a propriedade aos filhos. É preciso, porém, respeitar limites: a doação aos descendentes é tratada como <strong>adiantamento da legítima</strong> e deve ser levada à <strong>colação</strong> no futuro inventário, e ninguém pode doar mais do que poderia dispor em testamento, sob pena de a doação ser <strong>inoficiosa</strong>.",
-        "O <strong>testamento</strong>, por sua vez, permite destinar a <strong>parte disponível</strong> do patrimônio (até metade dos bens, quando há herdeiros necessários) e deixar disposições sobre a partilha, evitando dúvidas e brigas. Elaboramos doações e testamentos com segurança jurídica, dentro dos limites legais, e cuidamos da formalização em <strong>escritura pública</strong>. A sócia <strong>Paloma Dutra</strong>, com dez anos de Cartório de Notas, onde <strong>lavrou escrituras de doação</strong> como Oficial Substituta, conhece a fundo a forma correta de cada ato — o que dá a você a <em>tranquilidade de planejar o futuro sem deixar brechas</em>."
+        "<strong>WhatsApp</strong> · o canal mais rápido para agendar sua consulta e enviar documentos. <a href=\"https://wa.me/5500000000000\" target=\"_blank\">(00) 00000-0000</a>",
+        "<strong>Atendimento online</strong> · análise do caso, reuniões e acompanhamento por WhatsApp e videoconferência, em todo o Brasil.",
+        "<strong>Presencial</strong> · com agendamento prévio · Sua Rua, 000 · Seu Bairro · Sua Cidade/UF"
       ]
     },
-    "bullets_eye": "Como atuamos",
-    "bullets_h2": "Cada ato <em>planejado</em> dentro da lei.",
+    "bullets_eye": "Como atendemos",
+    "bullets_h2": "Atendimento <em>presencial e online</em>.",
     "bullets": [
-      {"title": "Doação com usufruto", "text": "Estruturamos a doação de imóveis e outros bens com reserva de usufruto, transferindo a propriedade aos filhos sem que você perca o uso e a renda do bem."},
-      {"title": "Respeito à legítima", "text": "Calculamos os limites da parte disponível para que doações e testamentos sejam válidos e não sejam anulados por prejudicar herdeiros necessários."},
-      {"title": "Testamento seguro", "text": "Elaboramos o testamento dentro da forma legal, registrando com clareza a sua vontade sobre a parte disponível do patrimônio."},
-      {"title": "Planejamento patrimonial", "text": "Integramos doações e testamento a um plano que reduz conflitos, custos e tributos e organiza a sucessão da sua família."}
+      {
+        "title": "Online em todo o Brasil",
+        "text": "Análise inicial, reuniões e acompanhamento por WhatsApp e videoconferência. Documentos trocados por PDF com confidencialidade."
+      },
+      {
+        "title": "Presencial com hora marcada",
+        "text": "Atendimento no escritório mediante agendamento prévio, em horário comercial."
+      },
+      {
+        "title": "Atendimento ágil",
+        "text": "Você conta o que aconteceu e retornamos com um diagnóstico técnico e a indicação dos próximos passos."
+      },
+      {
+        "title": "Sigilo profissional",
+        "text": "Tudo que é compartilhado fica entre você e o escritório, com a obrigação de confidencialidade do Estatuto da Advocacia."
+      }
     ],
     "faq": [
-      {"q": "Posso doar um imóvel aos filhos e continuar morando nele?", "a": "Sim, por meio da <strong>doação com reserva de usufruto</strong>. Você transfere a nua-propriedade ao filho, mas mantém o <strong>usufruto</strong> — o direito de morar, usar e receber a renda do imóvel — enquanto viver. É uma forma muito usada de planejamento, que adianta a sucessão sem perder o controle do bem."},
-      {"q": "A doação para um filho prejudica a herança dos outros?", "a": "Não, se feita corretamente. A doação a descendente é considerada <strong>adiantamento de legítima</strong> e deve ser informada (colação) no inventário, para equilibrar os quinhões. Quem quiser dispensar essa compensação precisa fazê-lo expressamente e dentro da <strong>parte disponível</strong>; orientamos a forma correta."},
-      {"q": "Vale mais a pena doar em vida ou deixar por testamento?", "a": "Depende dos seus objetivos. A <strong>doação</strong> antecipa a transmissão e pode reduzir o inventário futuro; o <strong>testamento</strong> só produz efeitos após a morte e pode ser alterado a qualquer tempo. Muitas vezes a melhor solução combina os dois. Analisamos o seu patrimônio e a sua família para indicar o caminho mais seguro e econômico."}
+      {
+        "q": "Como agendo uma consulta?",
+        "a": "Basta chamar pelo <a href=\"https://wa.me/5500000000000\" target=\"_blank\">WhatsApp</a>. Você conta o que aconteceu, combinamos o melhor horário e seguimos com a análise do seu caso."
+      },
+      {
+        "q": "Atendem quem mora em outra cidade?",
+        "a": "Sim. Atendemos <strong>online em todo o Brasil</strong> por WhatsApp e videoconferência, com a mesma qualidade do atendimento presencial."
+      },
+      {
+        "q": "Posso enviar documentos pelo WhatsApp?",
+        "a": "Sim. Aceitamos PDF, foto e áudio. Para casos com muitos documentos, organizamos um link seguro de envio."
+      },
+      {
+        "q": "Como funciona a primeira consulta?",
+        "a": "Você expõe o seu caso pelo WhatsApp ou em videoconferência e recebe um diagnóstico inicial. A proposta de honorários é apresentada por escrito antes de qualquer trabalho."
+      }
     ]
   }
 }

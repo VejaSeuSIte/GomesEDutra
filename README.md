@@ -1,15 +1,15 @@
-# Gomes & Dutra Advocacia
+# João Rocha Advocacia
 
-Site institucional do escritório **Gomes & Dutra Advocacia** — Gustavo Gomes e Paloma Dutra.
+Site institucional do escritório **João Rocha Advocacia** — Gustavo Gomes e Paloma Dutra.
 
 ## Sobre
 
-Escritório em Manhuaçu/MG especializado em **regularização de imóveis rurais e urbanos**, Direito Imobiliário, de Família e Sucessões. Atuação judicial e extrajudicial: inventário, divórcio, usucapião, doações, compra e venda e acompanhamento de escrituras públicas ao RGI. Atendimento presencial e online.
+Escritório em todo o Brasil especializado em **regularização de imóveis rurais e urbanos**, Direito Imobiliário, de Família e Sucessões. Atuação judicial e extrajudicial: inventário, divórcio, usucapião, doações, compra e venda e acompanhamento de escrituras públicas ao RGI. Atendimento presencial e online.
 
-- **Site live:** https://vejaseusite.github.io/GomesEDutra/
+- **Site live:** https://vejaseusite.github.io/JoaoRochaAdvogado/
 - **WhatsApp:** (33) 99954-7938
-- **E-mail:** escritoriogomesedutra@gmail.com
-- **Endereço:** Rua Agostinho Correa de Faria, 32 · Dom Correa · Manhuaçu/MG · CEP 36909-800
+- **E-mail:** contato@seudominio.com.br
+- **Endereço:** Rua Agostinho Correa de Faria, 32 · Dom Correa · todo o Brasil · CEP 36909-800
 
 ## Stack
 

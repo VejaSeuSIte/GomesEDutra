@@ -1,5 +1,5 @@
 """
-Build estatico do site Gomes & Dutra Advocacia (sem blog, sem admin).
+Build estatico do site João Rocha Advocacia (sem blog, sem admin).
 Gera as landings (1 por chave em assets/landings-content.json) + sitemap + robots.
 
 Uso:
@@ -11,7 +11,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 ROOT = Path(__file__).resolve().parent.parent
 LAYOUTS = ROOT / '_layouts'
-SITE_URL = 'https://vejaseusite.github.io/GomesEDutra'
+SITE_URL = 'https://vejaseusite.github.io/JoaoRochaAdvogado'
 
 LANDINGS_PATH = ROOT / 'assets' / 'landings-content.json'
 try:

@@ -1,7 +1,7 @@
 /* HSA Analytics injector — lê site-config.json e ativa Clarity / Plausible / GA4 se configurados.
    Também carrega tracker.js (analytics próprio: referrer, scroll, tempo, cliques). */
 (function(){
-  var basePath = (location.pathname.indexOf('/GomesEDutra/') === 0 ? '/GomesEDutra/' : '/');
+  var basePath = (location.pathname.indexOf('/JoaoRochaAdvogado/') === 0 ? '/JoaoRochaAdvogado/' : '/');
   // Tracker próprio — independe de qualquer ID configurado.
   if (location.pathname.indexOf('/admin') === -1) {
     var tk = document.createElement('script');

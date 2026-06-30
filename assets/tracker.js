@@ -12,7 +12,7 @@
   try { if (navigator.doNotTrack === '1' || navigator.doNotTrack === 'yes') return; } catch (_) {}
 
   var SLUG = 'seusite';
-  var basePath = location.pathname.indexOf('/GomesEDutra/') === 0 ? '/GomesEDutra/' : '/';
+  var basePath = location.pathname.indexOf('/JoaoRochaAdvogado/') === 0 ? '/JoaoRochaAdvogado/' : '/';
 
   fetch(basePath + 'assets/site-config.json', { cache: 'no-cache' })
     .then(function (r) { return r.ok ? r.json() : null; })
@@ -60,7 +60,7 @@
         try { dest = new URL(target); } catch (_) { return false; }
       } else {
         var path = target.charAt(0) === '/' ? target : (basePath + target);
-        if (path.indexOf('/GomesEDutra/') !== 0 && path.indexOf('/') !== 0) return false;
+        if (path.indexOf('/JoaoRochaAdvogado/') !== 0 && path.indexOf('/') !== 0) return false;
         try { dest = new URL(path, location.origin); } catch (_) { return false; }
       }
       if (data.utm_source) dest.searchParams.set('utm_source', data.utm_source);
